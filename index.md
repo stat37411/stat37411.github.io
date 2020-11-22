@@ -13,4 +13,4 @@ Linear algebra, prior programming experience, exposure to graph theory/algorithm
 
 * [Syllabus](syllabus.md) - additional information and logistics
 * [Schedule](schedule.md) - detailed schedule with links, readings, and assignments
-* [Canvas](https://canvas.uchicago.edu/courses/30683) - for discussion, general course administration
+* [Canvas](https://canvas.uchicago.edu/courses/32100) - for discussion, general course administration

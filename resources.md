@@ -23,11 +23,17 @@ These two books are good places to start for inspiration, and good references fo
 
 These books are both graduate-level introductions to algebraic topology.
 
+* "Topology for Computing" by Zomorodian - [UChicago Library](https://catalog.lib.uchicago.edu/vufind/Record/11811653)
+
+This book contains early descriptions of persistent homology as well as some of the early motivating applications.
+
 ## Papers
 
 ### Review Papers
 
 Review papers are a good place to look for high-level overviews of the field
+
+* "Topological pattern recognition for point cloud data" by G. Carlsson. Acta Numerica (2014), pp. 289–368. [Online](https://www.cambridge.org/core/journals/acta-numerica/article/topological-pattern-recognition-for-point-cloud-data/BB0DA0F0EBD79809C563AF80B555A23C#).
 
 ### Foundations
 

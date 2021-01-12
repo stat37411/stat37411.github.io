@@ -40,7 +40,7 @@ There will be several homework assignments (probably 3-4) which will be a mix of
 
 There will be a paper review which will involve reading a paper related to topological data analysis and writing a review of the paper.  The paper can be on theory, algorithms, or applications.  Some suggestions will be provided, but you can choose something else that you find interesting/relevant.
 
-The project can be individual or in a small group (2-3 people).  The project can involve an investigation into theory, algorithms, applications, or some mix.  We'll have project presentations (or recorded presentation videos) the last few days of class.
+The project can be individual or in a small group (2-3 people).  Group projects are encouraged. The project can involve an investigation into theory, algorithms, applications, or some mix.  We'll have project presentations (or recorded presentation videos) the last few days of class.
 
 A small piece of your grade be based on showing up to lecture and participating.  If you are unable to attend lecture more than 70% of the time (e.g. if you're in a different time zone), we'll provide some way to get the participation points (e.g. contributing to online discussion).
 

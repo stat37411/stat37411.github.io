@@ -28,6 +28,8 @@ You are welcome to use whatever programming language you like.  Matlab, R, Julia
 * Project (45% of final grade)
 * Participation (5% of final grade)
 
+If you want to take the course pass/fail, the homework is optional.  Please discuss with the instructor if you intend to go this route.
+
 ## Course Format
 
 This course is scheduled to meet T/Th 2:40-4:00 PM.  Due to Covid-19, this course will be remote.

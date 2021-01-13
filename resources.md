@@ -39,6 +39,8 @@ Review papers are a good place to look for high-level overviews of the field
 
 ### Algorithms
 
+* "A tutorial on spectral clustering" by U. von Luxburg. Statistics and Computing. 17, pp. 395–416 (2007) [Online](https://link-springer-com.proxy.uchicago.edu/article/10.1007/s11222-007-9033-z)
+
 ### Applications
 
 

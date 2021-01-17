@@ -18,7 +18,7 @@ Note that you can download a free electronic copy through the UChicago Library.
 These two books are good places to start for inspiration, and good references for parts of the course.
 
 ### Additional References
-* "Algebraic Topology" by Hatcher - [UChicago Library](https://catalog.lib.uchicago.edu/vufind/Record/4595299)
+* "Algebraic Topology" by Hatcher - [UChicago Library](https://catalog.lib.uchicago.edu/vufind/Record/4595299) [PDF on Author's Webpage](https://pi.math.cornell.edu/~hatcher/AT/AT.pdf)
 * "Elements of Algebraic Topology" by Munkres - [UChicago Library](https://catalog.lib.uchicago.edu/vufind/Record/7846007)
 
 These books are both graduate-level introductions to algebraic topology.
@@ -40,6 +40,8 @@ Review papers are a good place to look for high-level overviews of the field
 ### Algorithms
 
 * "A tutorial on spectral clustering" by U. von Luxburg. Statistics and Computing. 17, pp. 395–416 (2007) [Online](https://link-springer-com.proxy.uchicago.edu/article/10.1007/s11222-007-9033-z)
+* "Topological Methods for the Analysis of High Dimensional Data Sets and 3D Object Recognition" by G. Singh, F. Memoli, and G. Carlsson. Eurographics Symposium on Point-Based Graphics (2007). [Link](https://research.math.osu.edu/tgda/mapperPBG.pdf)
+* "The Simplex Tree: An Efficient Data Structure for General Simplicial Complexes" by J.D. Boissonnat and C. Maria. Algorithmica (2014) 70:406–427. [Link](https://link-springer-com.proxy.uchicago.edu/article/10.1007/s00453-014-9887-3)
 
 ### Applications
 

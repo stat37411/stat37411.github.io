@@ -18,7 +18,7 @@ Note that you can download a free electronic copy through the UChicago Library.
 These two books are good places to start for inspiration, and good references for parts of the course.
 
 ### Additional References
-* "Algebraic Topology" by Hatcher - [UChicago Library](https://catalog.lib.uchicago.edu/vufind/Record/4595299) [PDF on Author's Webpage](https://pi.math.cornell.edu/~hatcher/AT/AT.pdf)
+* "Algebraic Topology" by Hatcher - [UChicago Library](https://catalog.lib.uchicago.edu/vufind/Record/4595299), [PDF on Author's Webpage](https://pi.math.cornell.edu/~hatcher/AT/AT.pdf)
 * "Elements of Algebraic Topology" by Munkres - [UChicago Library](https://catalog.lib.uchicago.edu/vufind/Record/7846007)
 
 These books are both graduate-level introductions to algebraic topology.
@@ -37,6 +37,8 @@ Review papers are a good place to look for high-level overviews of the field
 
 ### Foundations
 
+* "Towards Computing Homology From Finite Approximations" by V. Robbins. Topology Proceedings, Vol. 24, pp. 503-532 (1999). [Link](http://topology.nipissingu.ca/tp/reprints/v24/tp24222.pdf)
+
 ### Algorithms
 
 * "A tutorial on spectral clustering" by U. von Luxburg. Statistics and Computing. 17, pp. 395–416 (2007) [Online](https://link-springer-com.proxy.uchicago.edu/article/10.1007/s11222-007-9033-z)
@@ -45,6 +47,10 @@ Review papers are a good place to look for high-level overviews of the field
 
 ### Applications
 
+
+## Seminars
+
+Applied Algebraic Topology Research Network [Online Seminar](https://topology.ima.umn.edu/seminars)
 
 ## Software
 

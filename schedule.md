@@ -40,6 +40,8 @@ Nerve of a cover, witness complexes, Mapper algorithm. Tries.
 
 __Code:__ [`trie.py`](https://github.com/stat37411/tda/blob/main/tda/trie.py)  [`simplicial_complex.py`](https://github.com/stat37411/tda/blob/main/tda/simplicial_complex.py)  [demo notebook](https://github.com/stat37411/tda/blob/main/ipynb/simplex.ipynb)
 
+For an open-source Mapper implementation (in Python), check out [Kepler Mapper](https://kepler-mapper.scikit-tda.org/en/latest/).
+
 __Reading:__
 * "Topological Estimation Using Witness Complexes" by V. de Silva and G. Carlsson.
 * "Topological Methods for the Analysis of High Dimensional Data Sets and 3D Object Recognition" by G. Singh, F. Memoli, and G. Carlsson.

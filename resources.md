@@ -38,6 +38,7 @@ Review papers are a good place to look for high-level overviews of the field
 ### Foundations
 
 * "Towards Computing Homology From Finite Approximations" by V. Robbins. Topology Proceedings, Vol. 24, pp. 503-532 (1999). [Link](http://topology.nipissingu.ca/tp/reprints/v24/tp24222.pdf)
+* "Topological Estimation Using Witness Complexes" by V. de Silva and G. Carlsson. Eurographics Symposium on Point-Based Graphics (2004). [Link](https://diglib.eg.org/handle/10.2312/SPBG.SPBG04.157-166)
 
 ### Algorithms
 
@@ -47,6 +48,7 @@ Review papers are a good place to look for high-level overviews of the field
 
 ### Applications
 
+* "Extracting insights from the shape of complex data using topology" by P. Y. Lum, G. Singh, A. Lehman, T. Ishkanov, M. Vejdemo-Johansson, M. Alagappan, J. Carlsson, and G. Carlsson. Scientific Reports volume 3, Article number: 1236 (2013). [Link](https://www.nature.com/articles/srep01236) - this is about using Mapper for data analysis.
 
 ## Seminars
 
@@ -55,6 +57,8 @@ Applied Algebraic Topology Research Network [Online Seminar](https://topology.im
 ## Software
 
 ### TDA Software
+
+Persistent Homology
 
 * Dionysus (Python/C++)
 * GUDHI (Python/C++)
@@ -65,6 +69,12 @@ Applied Algebraic Topology Research Network [Online Seminar](https://topology.im
 * Perseus (C++)
 * Ripser (C++)
 * scikit-tda (Python)
+
+Mapper
+
+* [Keppler Mapper](https://kepler-mapper.scikit-tda.org/en/latest/) (Python)
+
+
 
 ### Programming Language Help
 

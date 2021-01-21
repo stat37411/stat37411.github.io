@@ -26,7 +26,7 @@ __Reading:__
 
 ## Day 02 - 1/19
 
-Basic Topology (spaces, maps, homotopy).  Simplicial Complexes.  Simplicial Maps.  Constructions.
+Basic Topology (spaces, maps, homotopy).  Simplicial Complexes.  Simplicial Maps.  Constructions. [Recorded Lecture](https://uchicago.zoom.us/rec/share/VvVcgh7o9TDx7i2h6FCFi56dWnZy0Exq6OACFvEV2N_3NcVDNfLlZZrvGA3CTHGQ.dPCal4NBqzvTsp3o)
 
 __Reading:__
 * Ghrist: Preface and Chapter 2.
@@ -36,13 +36,15 @@ __Reading:__
 
 ## Day 03 - 1/21
 
-More constructions. Mapper algorithm. Tries.
+Nerve of a cover, witness complexes, Mapper algorithm. Tries.
 
-__Code:__ Trie
+__Code:__ [`trie.py`](https://github.com/stat37411/tda/blob/main/tda/trie.py)  [`simplicial_complex.py`](https://github.com/stat37411/tda/blob/main/tda/simplicial_complex.py)  [demo notebook](https://github.com/stat37411/tda/blob/main/ipynb/simplex.ipynb)
 
 __Reading:__
+* "Topological Estimation Using Witness Complexes" by V. de Silva and G. Carlsson.
 * "Topological Methods for the Analysis of High Dimensional Data Sets and 3D Object Recognition" by G. Singh, F. Memoli, and G. Carlsson.
 * (Optional) "The Simplex Tree: An Efficient Data Structure for General Simplicial Complexes" by J.D. Boissonnat and C. Maria.
+* (Optional) "Extracting insights from the shape of complex data using topology" by P. Y. Lum et al.
 
 
 

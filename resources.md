@@ -49,6 +49,7 @@ Review papers are a good place to look for high-level overviews of the field
 ### Applications
 
 * "Extracting insights from the shape of complex data using topology" by P. Y. Lum, G. Singh, A. Lehman, T. Ishkanov, M. Vejdemo-Johansson, M. Alagappan, J. Carlsson, and G. Carlsson. Scientific Reports volume 3, Article number: 1236 (2013). [Link](https://www.nature.com/articles/srep01236) - this is about using Mapper for data analysis.
+* "Identification of type 2 diabetes subgroups through topological analysis of patient similarity" by L. Li, W.Y. Cheng, B.S. Glicksberg, O. Gottesman, R Tamler, R. Chen, E.P. Bottinger, and J.T. Dudley. Sci Transl Med. 2015 October 28; 7(311): 311ra174. doi:10.1126/scitranslmed.aaa9364. [Link](https://pubmed.ncbi.nlm.nih.gov/26511511/) - Mapper used for identification of diabetes subgroups.
 
 ## Seminars
 

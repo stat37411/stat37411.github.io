@@ -45,6 +45,7 @@ __Reading:__
 * "Topological Methods for the Analysis of High Dimensional Data Sets and 3D Object Recognition" by G. Singh, F. Memoli, and G. Carlsson.
 * (Optional) "The Simplex Tree: An Efficient Data Structure for General Simplicial Complexes" by J.D. Boissonnat and C. Maria.
 * (Optional) "Extracting insights from the shape of complex data using topology" by P. Y. Lum et al.
+* (Optional) "Identification of type 2 diabetes subgroups through topological analysis of patient similarity" by L. Li et al.
 
 
 

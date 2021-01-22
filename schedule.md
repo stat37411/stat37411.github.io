@@ -36,7 +36,7 @@ __Reading:__
 
 ## Day 03 - 1/21
 
-Nerve of a cover, witness complexes, Mapper algorithm. Tries.
+Nerve of a cover, witness complexes, Mapper algorithm. Tries.  [Recorded Lecture](https://uchicago.zoom.us/rec/share/czlhI9x7l0f9AlQhlEgaINyKBY6YD_qHGehce-plbK3UaMSqplaCLc6l0quvuyRy.-ZvI3JcBzgPo4gSI)
 
 __Code:__ [`trie.py`](https://github.com/stat37411/tda/blob/main/tda/trie.py)  [`simplicial_complex.py`](https://github.com/stat37411/tda/blob/main/tda/simplicial_complex.py)  [demo notebook](https://github.com/stat37411/tda/blob/main/ipynb/simplex.ipynb)
 

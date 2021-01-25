@@ -73,6 +73,10 @@ __Reading:__
 * "Computing Persistent Homology" by A. Zomorodian and G. Carlsson.
 
 
+## Homework 1
+
+[Demo mapper graph](extras/chemdiab_keplermapper_output.html)
+
 
 ## Reading Period
 

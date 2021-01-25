@@ -75,7 +75,8 @@ __Reading:__
 
 ## Homework 1
 
-[Demo mapper graph](extras/chemdiab_keplermapper_output.html)
+Due noon on Feb. 5, 2021.
+[Link to assignment](homework/Homework_1.pdf)  [Demo mapper graph](extras/chemdiab_keplermapper_output.html)
 
 
 ## Reading Period

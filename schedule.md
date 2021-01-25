@@ -49,7 +49,28 @@ __Reading:__
 * (Optional) "Extracting insights from the shape of complex data using topology" by P. Y. Lum et al.
 * (Optional) "Identification of type 2 diabetes subgroups through topological analysis of patient similarity" by L. Li et al.
 
+## Day 04 - 1/26
 
+(Cellular) chain complexes, (Cellular) homology, reduction algorithm.
+
+__Code:__
+
+__Reading:__
+* Ghrist Chapter 4
+* "Computing Persistent Homology" by A. Zomorodian and G. Carlsson.
+* (Optional) Hatcher Chapter 2 (2.2 is most relevant)
+* (Optional) "Topological Persistence and Simplification" by H. Edelsbrunner, D. Letscher and A. Zomorodian.
+
+
+## Day 05 - 1/28
+
+Filtrations, persistent homology.
+
+__Code:__
+
+__Reading:__
+* Oudot Chapter 2
+* "Computing Persistent Homology" by A. Zomorodian and G. Carlsson.
 
 
 

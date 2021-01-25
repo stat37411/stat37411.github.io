@@ -38,7 +38,9 @@ Review papers are a good place to look for high-level overviews of the field
 ### Foundations
 
 * "Towards Computing Homology From Finite Approximations" by V. Robbins. Topology Proceedings, Vol. 24, pp. 503-532 (1999). [Link](http://topology.nipissingu.ca/tp/reprints/v24/tp24222.pdf)
+* "Topological Persistence and Simplification" by H. Edelsbrunner, D. Letscher and A. Zomorodian. Discrete & Computational Geometry volume 28, pp. 511–533 (2002). [Link](https://link.springer.com/article/10.1007/s00454-002-2885-2)
 * "Topological Estimation Using Witness Complexes" by V. de Silva and G. Carlsson. Eurographics Symposium on Point-Based Graphics (2004). [Link](https://diglib.eg.org/handle/10.2312/SPBG.SPBG04.157-166)
+* "Computing Persistent Homology" by A. Zomorodian and G. Carlsson.  Discrete & Computational Geometry volume 33, pp. 249–274 (2005). [Link](https://link.springer.com/article/10.1007%2Fs00454-004-1146-y)
 
 ### Algorithms
 
@@ -74,6 +76,7 @@ Persistent Homology
 Mapper
 
 * [Keppler Mapper](https://kepler-mapper.scikit-tda.org/en/latest/) (Python)
+* [TDAMapper](https://github.com/paultpearson/TDAmapper/blob/master/README.md) (R)
 
 
 

@@ -58,6 +58,7 @@ __Code:__
 __Reading:__
 * Ghrist Chapter 4
 * "Computing Persistent Homology" by A. Zomorodian and G. Carlsson.
+* (Optional) "Persistent and Zigzag Homology: A Matrix Factorization Viewpoint" by G. Carlsson, A. Dwarkanath, and B.J. Nelson, sections 2.2-2.5
 * (Optional) Hatcher Chapter 2 (2.2 is most relevant)
 * (Optional) "Topological Persistence and Simplification" by H. Edelsbrunner, D. Letscher and A. Zomorodian.
 
@@ -71,6 +72,7 @@ __Code:__
 __Reading:__
 * Oudot Chapter 2
 * "Computing Persistent Homology" by A. Zomorodian and G. Carlsson.
+* (Optional) "Persistent and Zigzag Homology: A Matrix Factorization Viewpoint" by G. Carlsson, A. Dwarkanath, and B.J. Nelson, section 2.6
 
 
 ## Homework 1

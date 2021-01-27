@@ -51,7 +51,7 @@ __Reading:__
 
 ## Day 04 - 1/26
 
-(Cellular) chain complexes, (Cellular) homology, reduction algorithm.
+(Cellular) chain complexes, (Cellular) homology, reduction algorithm.  [Recorded Lecture](https://uchicago.zoom.us/rec/share/uZOra3c8RTQWEvkAq1F_LwM0DPj7lkpo1aNqVvKEfhTRujlPQlLZaodAFfuAi2k7.ZtFvpOW4cuttUFpb?startTime=1611693061000)
 
 __Code:__
 

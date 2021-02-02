@@ -65,7 +65,7 @@ __Reading:__
 
 ## Day 05 - 1/28
 
-Filtrations, persistent homology.
+Filtrations, persistent homology. [Recorded Lecture](https://uchicago.zoom.us/rec/share/P9LrbpHyZd2QbIDQBQCR7TIncsmbbC_aIakHtN00mx7ucEddpzQRLQ5fwEPz3mpI.6S0jrVUHU6qgrXNQ?startTime=1611866220000)
 
 __Code:__
 

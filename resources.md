@@ -42,6 +42,14 @@ Review papers are a good place to look for high-level overviews of the field
 * "Topological Estimation Using Witness Complexes" by V. de Silva and G. Carlsson. Eurographics Symposium on Point-Based Graphics (2004). [Link](https://diglib.eg.org/handle/10.2312/SPBG.SPBG04.157-166)
 * "Computing Persistent Homology" by A. Zomorodian and G. Carlsson.  Discrete & Computational Geometry volume 33, pp. 249–274 (2005). [Link](https://link.springer.com/article/10.1007%2Fs00454-004-1146-y)
 
+### Stability
+* "Stability of Persistence Diagrams" by  S. Cohen-Steiner, H. Edelsbrunner, and J. Harer. Discrete & Computational Geometry 37(1) pp. 103-120 (2007). [Link](https://link.springer.com/article/10.1007/s00454-006-1276-5)
+* "Gromov-Hausdorff Stable Signatures for Shapesusing Persistence" by F. Chazal, D. Cohen-Steiner, L.J. Guibas, F. Mémoli, and S.Y. Oudot. Eurographics Symposium on Geometry Processing 2009, Volume 28, Number 5. [Link](https://geometry.stanford.edu/papers/ccsgmo-ghsssp-09/ccsgmo-ghsssp-09.pdf)
+
+### Features
+* "The Ring of Algebraic Functions on Persistence Bar Codes" by A. Adcock, E. Carlsson, and G. Carlsson. Homology, Homotopy and Applications, vol. 18(1), pp. 381–402 (2016). [Link](https://www.intlpress.com/site/pub/files/_fulltext/journals/hha/2016/0018/0001/HHA-2016-0018-0001-a021.pdf)
+* "Statistical Topological Data Analysis using Persistence Landscapes" by P. Bubenik. Journal of Machine Learning Research 16 pp. 77-102 (2015). [Link](https://www.jmlr.org/papers/volume16/bubenik15a/bubenik15a.pdf)
+
 ### Algorithms
 
 * "A tutorial on spectral clustering" by U. von Luxburg. Statistics and Computing. 17, pp. 395–416 (2007) [Online](https://link-springer-com.proxy.uchicago.edu/article/10.1007/s11222-007-9033-z)
@@ -53,6 +61,7 @@ Review papers are a good place to look for high-level overviews of the field
 
 * "Extracting insights from the shape of complex data using topology" by P. Y. Lum, G. Singh, A. Lehman, T. Ishkanov, M. Vejdemo-Johansson, M. Alagappan, J. Carlsson, and G. Carlsson. Scientific Reports volume 3, Article number: 1236 (2013). [Link](https://www.nature.com/articles/srep01236) - this is about using Mapper for data analysis.
 * "Identification of type 2 diabetes subgroups through topological analysis of patient similarity" by L. Li, W.Y. Cheng, B.S. Glicksberg, O. Gottesman, R Tamler, R. Chen, E.P. Bottinger, and J.T. Dudley. Sci Transl Med. 2015 October 28; 7(311): 311ra174. doi:10.1126/scitranslmed.aaa9364. [Link](https://pubmed.ncbi.nlm.nih.gov/26511511/) - Mapper used for identification of diabetes subgroups.
+
 
 ## Seminars
 

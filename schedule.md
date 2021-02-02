@@ -72,13 +72,27 @@ __Code:__
 __Reading:__
 * Oudot Chapter 2
 * "Computing Persistent Homology" by A. Zomorodian and G. Carlsson.
-* (Optional) "Persistent and Zigzag Homology: A Matrix Factorization Viewpoint" by G. Carlsson, A. Dwarkanath, and B.J. Nelson, section 2.6
+* (Optional) "Persistent and Zigzag Homology: A Matrix Factorization Viewpoint" by G. Carlsson, A. Dwarkanath, and B.J. Nelson, sections 2.6, 2.7
+* (Optional) For some nice visualizations, see Anjan Dwaraknath's Slides: [Link](https://anjandn.github.io/quivertalkslides/)
 
 
 ## Homework 1
 
 Due noon on Feb. 5, 2021.
 [Link to assignment](homework/Homework_1.pdf)  [Demo mapper graph](extras/chemdiab_keplermapper_output.html)
+
+## Day 06 - 2/2
+
+__Code__:
+
+__Reading__:
+Pairs, barcodes, diagrams, bottleneck distance, features.
+
+* Oudot Chapter 3, Section 1.1
+* (Optional) "Stability of Persistence Diagrams" by  S. Cohen-Steiner, H. Edelsbrunner, and J. Harer.
+* (Optional) "Gromov-Hausdorff Stable Signatures for Shapesusing Persistence" by F. Chazal, D. Cohen-Steiner, L.J. Guibas, F. Mémoli, and S.Y. Oudot.
+* (Optional) "The Ring of Algebraic Functions on Persistence Bar Codes" by A. Adcock, E. Carlsson, and G. Carlsson.
+* (Optional) "Statistical Topological Data Analysis using Persistence Landscapes" by P. Bubenik.
 
 
 ## Reading Period

@@ -86,7 +86,7 @@ Due noon on Feb. 5, 2021.
 __Code__:
 
 __Reading__:
-Pairs, barcodes, diagrams, bottleneck distance, features.  [Recorded Lecture](https://uchicago.zoom.us/rec/share/TTpfIhLRMsulKsVqKU-2oWUrL565aZFPu0TZVoH8hJv33tArsVi5lfqqpcLfCWBI.1WLf0xDjPHBuYFda?startTime=1612298099000)
+Pairs, barcodes, diagrams, bottleneck distance, features.  [Recorded Lecture](https://uchicago.zoom.us/rec/share/TTpfIhLRMsulKsVqKU-2oWUrL565aZFPu0TZVoH8hJv33tArsVi5lfqqpcLfCWBI.1WLf0xDjPHBuYFda?startTime=1612298099000)  [PDF of iPad notes](lectures/Lecture7.pdf) - note that I also showed some figures from the papers below.
 
 * Oudot Chapter 3, Section 1.1
 * (Optional) "Stability of Persistence Diagrams" by  S. Cohen-Steiner, H. Edelsbrunner, and J. Harer.

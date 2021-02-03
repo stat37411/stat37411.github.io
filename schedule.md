@@ -83,16 +83,29 @@ Due noon on Feb. 5, 2021.
 
 ## Day 06 - 2/2
 
+Pairs, barcodes, diagrams, bottleneck distance, features.  [Recorded Lecture](https://uchicago.zoom.us/rec/share/TTpfIhLRMsulKsVqKU-2oWUrL565aZFPu0TZVoH8hJv33tArsVi5lfqqpcLfCWBI.1WLf0xDjPHBuYFda?startTime=1612298099000)  [PDF of iPad notes](lectures/Lecture7.pdf) - note that I also showed some figures from the papers below.
+
 __Code__:
 
 __Reading__:
-Pairs, barcodes, diagrams, bottleneck distance, features.  [Recorded Lecture](https://uchicago.zoom.us/rec/share/TTpfIhLRMsulKsVqKU-2oWUrL565aZFPu0TZVoH8hJv33tArsVi5lfqqpcLfCWBI.1WLf0xDjPHBuYFda?startTime=1612298099000)  [PDF of iPad notes](lectures/Lecture7.pdf) - note that I also showed some figures from the papers below.
-
 * Oudot Chapter 3, Section 1.1
 * (Optional) "Stability of Persistence Diagrams" by  S. Cohen-Steiner, H. Edelsbrunner, and J. Harer.
 * (Optional) "Gromov-Hausdorff Stable Signatures for Shapesusing Persistence" by F. Chazal, D. Cohen-Steiner, L.J. Guibas, F. Mémoli, and S.Y. Oudot.
 * (Optional) "The Ring of Algebraic Functions on Persistence Bar Codes" by A. Adcock, E. Carlsson, and G. Carlsson.
 * (Optional) "Statistical Topological Data Analysis using Persistence Landscapes" by P. Bubenik.
+
+## Day 07 - 2/4
+
+Quiver Representations, Zigzag Homology.
+
+__Code__:
+
+__Reading__:
+* Oudot Chapter 1
+* Ghrist Chapters 5.13, 5.15
+* (Optional) "Zigzag Persistence" by G. Carlsson and V. de Silva.
+* (Optional) "Zigzag Persistent Homology and Real-valued Functions" by G. Carlsson, V. de Silva, and D. Morozov.
+* (Optional) "Persistent and Zigzag Homology: A Matrix Factorization Viewpoint" by G. Carlsson, A. Dwarkanath, and B.J. Nelson.
 
 
 ## Reading Period

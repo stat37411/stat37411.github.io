@@ -41,6 +41,7 @@ Review papers are a good place to look for high-level overviews of the field
 * "Topological Persistence and Simplification" by H. Edelsbrunner, D. Letscher and A. Zomorodian. Discrete & Computational Geometry volume 28, pp. 511–533 (2002). [Link](https://link.springer.com/article/10.1007/s00454-002-2885-2)
 * "Topological Estimation Using Witness Complexes" by V. de Silva and G. Carlsson. Eurographics Symposium on Point-Based Graphics (2004). [Link](https://diglib.eg.org/handle/10.2312/SPBG.SPBG04.157-166)
 * "Computing Persistent Homology" by A. Zomorodian and G. Carlsson.  Discrete & Computational Geometry volume 33, pp. 249–274 (2005). [Link](https://link.springer.com/article/10.1007%2Fs00454-004-1146-y)
+* "Zigzag Persistence" by G. Carlsson and V. de Silva.  Foundations of Computational Mathematics, vol. 10: pp. 367–405, (2010). [Link](https://link.springer.com/article/10.1007/s10208-010-9066-0)
 
 ### Stability
 * "Stability of Persistence Diagrams" by  S. Cohen-Steiner, H. Edelsbrunner, and J. Harer. Discrete & Computational Geometry 37(1) pp. 103-120 (2007). [Link](https://link.springer.com/article/10.1007/s00454-006-1276-5)
@@ -54,6 +55,7 @@ Review papers are a good place to look for high-level overviews of the field
 
 * "A tutorial on spectral clustering" by U. von Luxburg. Statistics and Computing. 17, pp. 395–416 (2007) [Online](https://link-springer-com.proxy.uchicago.edu/article/10.1007/s11222-007-9033-z)
 * "Topological Methods for the Analysis of High Dimensional Data Sets and 3D Object Recognition" by G. Singh, F. Memoli, and G. Carlsson. Eurographics Symposium on Point-Based Graphics (2007). [Link](https://research.math.osu.edu/tgda/mapperPBG.pdf)
+* "Zigzag Persistent Homology and Real-valued Functions" by G. Carlsson, V. de Silva, and D. Morozov. Sympoosium on Computational Geometry ’09, pp. 247–256, (2009) [Link](https://dl-acm-org.proxy.uchicago.edu/doi/10.1145/1542362.1542408), [Link 2](https://mrzv.org/publications/zigzags/socg09/)
 * "The Simplex Tree: An Efficient Data Structure for General Simplicial Complexes" by J.D. Boissonnat and C. Maria. Algorithmica (2014) 70:406–427. [Link](https://link-springer-com.proxy.uchicago.edu/article/10.1007/s00453-014-9887-3)
 * "Persistent and Zigzag Homology: A Matrix Factorization Viewpoint" by G. Carlsson, A. Dwaraknath, and B.J. Nelson.  preprint (2019) [arXiv:1911.10693](https://arxiv.org/abs/1911.10693)
 

@@ -83,7 +83,7 @@ Due noon on Feb. 5, 2021.
 
 ## Day 06 - 2/2
 
-Pairs, barcodes, diagrams, bottleneck distance, features.  [Recorded Lecture](https://uchicago.zoom.us/rec/share/TTpfIhLRMsulKsVqKU-2oWUrL565aZFPu0TZVoH8hJv33tArsVi5lfqqpcLfCWBI.1WLf0xDjPHBuYFda?startTime=1612298099000)  [PDF of iPad notes](lectures/Lecture7.pdf) - note that I also showed some figures from the papers below.
+Pairs, barcodes, diagrams, bottleneck distance, features.  [Recorded Lecture](https://uchicago.zoom.us/rec/share/TTpfIhLRMsulKsVqKU-2oWUrL565aZFPu0TZVoH8hJv33tArsVi5lfqqpcLfCWBI.1WLf0xDjPHBuYFda?startTime=1612298099000),  [PDF of iPad notes](lectures/Lecture7.pdf) - note that I also showed some figures from the papers below.
 
 __Code__:
 
@@ -96,7 +96,7 @@ __Reading__:
 
 ## Day 07 - 2/4
 
-Quiver Representations, Zigzag Homology. [Recorded Lecture](https://uchicago.zoom.us/rec/share/bfa0j6qgkmIMOnyN6qouzc3Gf3lVqPv6FhIEovekrObFLTmK3jPm6mFtP-1X34Tt.VnSA0eB5oG4rfI40)  [PDF of iPad notes](lectures/Lecture8.pdf).
+Quiver Representations, Zigzag Homology. [Recorded Lecture](https://uchicago.zoom.us/rec/share/bfa0j6qgkmIMOnyN6qouzc3Gf3lVqPv6FhIEovekrObFLTmK3jPm6mFtP-1X34Tt.VnSA0eB5oG4rfI40),  [PDF of iPad notes](lectures/Lecture8.pdf).
 
 __Code__:
 

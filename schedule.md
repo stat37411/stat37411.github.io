@@ -96,7 +96,7 @@ __Reading__:
 
 ## Day 07 - 2/4
 
-Quiver Representations, Zigzag Homology.
+Quiver Representations, Zigzag Homology. [Recorded Lecture](https://uchicago.zoom.us/rec/share/bfa0j6qgkmIMOnyN6qouzc3Gf3lVqPv6FhIEovekrObFLTmK3jPm6mFtP-1X34Tt.VnSA0eB5oG4rfI40)  [PDF of iPad notes](lectures/Lecture8.pdf).
 
 __Code__:
 

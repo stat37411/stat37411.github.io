@@ -107,6 +107,11 @@ __Reading__:
 * (Optional) "Zigzag Persistent Homology and Real-valued Functions" by G. Carlsson, V. de Silva, and D. Morozov.
 * (Optional) "Persistent and Zigzag Homology: A Matrix Factorization Viewpoint" by G. Carlsson, A. Dwarkanath, and B.J. Nelson.
 
+## Homework 2
+
+Due noon on Feb. 19, 2021.
+[Link to assignment](homework/Homework_2.pdf)
+
 
 ## Reading Period
 

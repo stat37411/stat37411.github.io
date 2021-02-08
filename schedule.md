@@ -114,6 +114,12 @@ Due noon on Feb. 19, 2021.
 
 ## Day 08 - 2/9
 
+Interleavings, Interleaving Distance, Isometry Theorem
+
+__Reading__:
+* Oudot Chapter 3
+* Ghrist Chapter 10.6
+
 ## Day 09 - 2/11
 
 

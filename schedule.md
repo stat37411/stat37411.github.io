@@ -112,6 +112,10 @@ __Reading__:
 Due noon on Feb. 19, 2021.
 [Link to assignment](homework/Homework_2.pdf)
 
+## Day 08 - 2/9
+
+## Day 09 - 2/11
+
 
 ## Reading Period
 

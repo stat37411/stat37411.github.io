@@ -46,6 +46,7 @@ Review papers are a good place to look for high-level overviews of the field
 ### Stability
 * "Stability of Persistence Diagrams" by  S. Cohen-Steiner, H. Edelsbrunner, and J. Harer. Discrete & Computational Geometry 37(1) pp. 103-120 (2007). [Link](https://link.springer.com/article/10.1007/s00454-006-1276-5)
 * "Gromov-Hausdorff Stable Signatures for Shapesusing Persistence" by F. Chazal, D. Cohen-Steiner, L.J. Guibas, F. Mémoli, and S.Y. Oudot. Eurographics Symposium on Geometry Processing 2009, Volume 28, Number 5. [Link](https://geometry.stanford.edu/papers/ccsgmo-ghsssp-09/ccsgmo-ghsssp-09.pdf)
+* "Metrics for Generalized Persistence Modules" by P. Bubenik, V. de Silva, and J. Scott.  Foundations of Computational Mathematics, Vol 15, pp. 1501–1531 (2015). [Link](https://link-springer-com.proxy.uchicago.edu/article/10.1007/s10208-014-9229-5)
 
 ### Features
 * "The Ring of Algebraic Functions on Persistence Bar Codes" by A. Adcock, E. Carlsson, and G. Carlsson. Homology, Homotopy and Applications, vol. 18(1), pp. 381–402 (2016). [Link](https://www.intlpress.com/site/pub/files/_fulltext/journals/hha/2016/0018/0001/HHA-2016-0018-0001-a021.pdf)

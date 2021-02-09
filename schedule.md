@@ -119,6 +119,7 @@ Interleavings, Interleaving Distance, Isometry Theorem
 __Reading__:
 * Oudot Chapter 3
 * Ghrist Chapter 10.6
+* (Optional) "Metrics for Generalized Persistence Modules" by P. Bubenik, V. de Silva, and J. Scott.
 
 ## Day 09 - 2/11
 

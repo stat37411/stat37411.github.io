@@ -114,7 +114,10 @@ Due noon on Feb. 19, 2021.
 
 ## Day 08 - 2/9
 
-Interleavings, Interleaving Distance, Isometry Theorem
+Interleavings, Interleaving Distance, Isometry Theorem.
+[Recorded Lecture](https://uchicago.zoom.us/rec/share/cae4KfdKCQJAE8G0Oo_jD68rAXojQXd5aZfCE7_Qi6o5C9Rv1ebhnnR0feZHqSiX.Og-7M2Es8tdY5WEg),  
+[PDF of iPad notes](lectures/Lecture9.pdf).
+
 
 __Reading__:
 * Oudot Chapter 3

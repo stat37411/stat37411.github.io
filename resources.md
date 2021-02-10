@@ -48,6 +48,11 @@ Review papers are a good place to look for high-level overviews of the field
 * "Gromov-Hausdorff Stable Signatures for Shapesusing Persistence" by F. Chazal, D. Cohen-Steiner, L.J. Guibas, F. Mémoli, and S.Y. Oudot. Eurographics Symposium on Geometry Processing 2009, Volume 28, Number 5. [Link](https://geometry.stanford.edu/papers/ccsgmo-ghsssp-09/ccsgmo-ghsssp-09.pdf)
 * "Metrics for Generalized Persistence Modules" by P. Bubenik, V. de Silva, and J. Scott.  Foundations of Computational Mathematics, Vol 15, pp. 1501–1531 (2015). [Link](https://link-springer-com.proxy.uchicago.edu/article/10.1007/s10208-014-9229-5)
 
+### Sampling
+
+* "Finding the Homology of Submanifolds with High Confidence from Random Samples" by P. Niyogi, S. Smale, S. Weinberger. Discrete & Computational Geometry Vol 39: pp. 419–441 (2008). [Link](https://link.springer.com/article/10.1007/s00454-008-9053-2)
+* "A Sampling Theory for Compact Sets in Euclidean Space" by F. Chazal, D. Cohen-Steiner & A. Lieutier. Discrete & Computational Geometry Vol 41, pp. 461–479 (2009). [Link](https://link.springer.com/article/10.1007/s00454-009-9144-8)
+
 ### Features
 * "The Ring of Algebraic Functions on Persistence Bar Codes" by A. Adcock, E. Carlsson, and G. Carlsson. Homology, Homotopy and Applications, vol. 18(1), pp. 381–402 (2016). [Link](https://www.intlpress.com/site/pub/files/_fulltext/journals/hha/2016/0018/0001/HHA-2016-0018-0001-a021.pdf)
 * "Statistical Topological Data Analysis using Persistence Landscapes" by P. Bubenik. Journal of Machine Learning Research 16 pp. 77-102 (2015). [Link](https://www.jmlr.org/papers/volume16/bubenik15a/bubenik15a.pdf)

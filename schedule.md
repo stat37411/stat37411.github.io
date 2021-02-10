@@ -118,13 +118,19 @@ Interleavings, Interleaving Distance, Isometry Theorem.
 [Recorded Lecture](https://uchicago.zoom.us/rec/share/cae4KfdKCQJAE8G0Oo_jD68rAXojQXd5aZfCE7_Qi6o5C9Rv1ebhnnR0feZHqSiX.Og-7M2Es8tdY5WEg),  
 [PDF of iPad notes](lectures/Lecture9.pdf).
 
-
 __Reading__:
 * Oudot Chapter 3
 * Ghrist Chapter 10.6
 * (Optional) "Metrics for Generalized Persistence Modules" by P. Bubenik, V. de Silva, and J. Scott.
 
 ## Day 09 - 2/11
+
+Reach, Weak Feature Size, Sampling.
+
+__Reading__:
+* Oudot Chapter 4
+* (Optional) "Finding the Homology of Submanifolds with High Confidence from Random Samples" by P. Niyogi, S. Smale, S. Weinberger.
+* (Optional) "A Sampling Theory for Compact Sets in Euclidean Space" by F. Chazal, D. Cohen-Steiner & A. Lieutier.
 
 
 ## Reading Period

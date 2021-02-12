@@ -125,7 +125,8 @@ __Reading__:
 
 ## Day 09 - 2/11
 
-Reach, Weak Feature Size, Sampling.
+Reach, Weak Feature Size, Sampling. [Recorded Lecture](https://uchicago.zoom.us/rec/share/uggZOFeAdD7WlI1THq4IINANgkEF8KZeBMfY7gKqlPm_u8IWrNMGZ9oZaNCfDvvo.cbywEoqHnVkv3aap?startTime=1613075840000),
+[PDF of iPad Notes](lectures/Lecture9.pdf).
 
 __Reading__:
 * Oudot Chapter 4

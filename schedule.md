@@ -111,6 +111,7 @@ __Reading__:
 
 Due noon on Feb. 19, 2021.
 [Link to assignment](homework/Homework_2.pdf)
+[Link with corrections](homework/Homework_2_corrected.pdf)
 
 ## Day 08 - 2/9
 
@@ -132,6 +133,16 @@ __Reading__:
 * Oudot Chapter 4
 * (Optional) "Finding the Homology of Submanifolds with High Confidence from Random Samples" by P. Niyogi, S. Smale, S. Weinberger.
 * (Optional) "A Sampling Theory for Compact Sets in Euclidean Space" by F. Chazal, D. Cohen-Steiner & A. Lieutier.
+
+## Day 10 - 2/15
+
+Klein bottle in Image Patches
+
+__Reading__:
+* Ghrist Chapter 5.14
+* Oudot Chapter 5.5
+* (Optional) "On the Local Behavior of Spaces of Natural Images" by G. Carlsson, T. Ishkhanov, V. de Silva & A. Zomorodian.
+* (Optional) "Topological Estimation Using Witness Complexes" by V. de Silva and G. Carlsson.
 
 
 ## Reading Period

@@ -137,7 +137,7 @@ __Reading__:
 ## Day 10 - 2/15
 
 Klein bottle in Image Patches.
-[Recorded Lecture](https://uchicago.zoom.us/rec/share/9WqiXu1GytTCRD042sAvAmO5XzPVcgMscEeBvtDr4QVvfsiho2zqXKc3IeO46BZ9.MfTk7GKIBOACzdH5)
+[Recorded Lecture](https://uchicago.zoom.us/rec/share/9WqiXu1GytTCRD042sAvAmO5XzPVcgMscEeBvtDr4QVvfsiho2zqXKc3IeO46BZ9.MfTk7GKIBOACzdH5),
 [PDF of iPad Notes](lectures/Lecture11.pdf)
 
 __Reading__:

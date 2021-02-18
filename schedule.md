@@ -134,7 +134,7 @@ __Reading__:
 * (Optional) "Finding the Homology of Submanifolds with High Confidence from Random Samples" by P. Niyogi, S. Smale, S. Weinberger.
 * (Optional) "A Sampling Theory for Compact Sets in Euclidean Space" by F. Chazal, D. Cohen-Steiner & A. Lieutier.
 
-## Day 10 - 2/15
+## Day 10 - 2/16
 
 Klein bottle in Image Patches.
 [Recorded Lecture](https://uchicago.zoom.us/rec/share/9WqiXu1GytTCRD042sAvAmO5XzPVcgMscEeBvtDr4QVvfsiho2zqXKc3IeO46BZ9.MfTk7GKIBOACzdH5),
@@ -145,6 +145,28 @@ __Reading__:
 * Oudot Chapter 5.5
 * (Optional) "On the Local Behavior of Spaces of Natural Images" by G. Carlsson, T. Ishkhanov, V. de Silva & A. Zomorodian.
 * (Optional) "Topological Estimation Using Witness Complexes" by V. de Silva and G. Carlsson.
+
+## Day 11 - 2/18
+
+Outliers.  Metric Measure Spaces, Distance-to-Measure.
+
+__Reading__:
+* Oudot Chapter 5.6
+* (Optional) "Topological consistency via kernel estimation" by O.  Bobrowski, S. Mukherjee, J. E. Taylor.
+* (Optional) "Geometric Inference for Probability Measures" by F. Chazal, D. Cohen-Steiner & Q. Mérigot.
+* (Optional) "Efficient and robust persistent homology for measures" by M. Buchet, F. Chazal, S.Y. Oudot, D.R. Sheehy.
+
+## Day 12 - 2/23
+
+## Day 13 - 2/25
+
+## Day 14 - 3/2
+
+## Day 15 - 3/4
+
+## Day 16 - 3/9
+
+## Day 17 - 3/11
 
 
 ## Reading Period

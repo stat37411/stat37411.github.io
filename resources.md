@@ -52,6 +52,9 @@ Review papers are a good place to look for high-level overviews of the field
 
 * "Finding the Homology of Submanifolds with High Confidence from Random Samples" by P. Niyogi, S. Smale, S. Weinberger. Discrete & Computational Geometry Vol 39: pp. 419–441 (2008). [Link](https://link.springer.com/article/10.1007/s00454-008-9053-2)
 * "A Sampling Theory for Compact Sets in Euclidean Space" by F. Chazal, D. Cohen-Steiner & A. Lieutier. Discrete & Computational Geometry Vol 41, pp. 461–479 (2009). [Link](https://link.springer.com/article/10.1007/s00454-009-9144-8)
+* "Geometric Inference for Probability Measures" by F. Chazal, D. Cohen-Steiner & Q. Mérigot. Foundations of Computational Mathematics, volume 11, pp. 733–751(2011). [Link](https://link-springer-com.proxy.uchicago.edu/article/10.1007/s10208-011-9098-0)
+* "Efficient and robust persistent homology for measures" by M. Buchet, F. Chazal, S.Y. Oudot, D.R. Sheehy.  Computational Geometry 58 (2016) pp. 70–96. [Link](https://www.sciencedirect.com/science/article/pii/S0925772116300633?via%3Dihub)
+* "Topological consistency via kernel estimation" by O.  Bobrowski, S. Mukherjee, J. E. Taylor. Bernoulli 23 (1) 288 - 328, February 2017. https://doi.org/10.3150/15-BEJ744 [Link](https://projecteuclid.org/journals/bernoulli/volume-23/issue-1/Topological-consistency-via-kernel-estimation/10.3150/15-BEJ744.full?tab=ArticleLink)
 
 ### Features
 * "The Ring of Algebraic Functions on Persistence Bar Codes" by A. Adcock, E. Carlsson, and G. Carlsson. Homology, Homotopy and Applications, vol. 18(1), pp. 381–402 (2016). [Link](https://www.intlpress.com/site/pub/files/_fulltext/journals/hha/2016/0018/0001/HHA-2016-0018-0001-a021.pdf)

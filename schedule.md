@@ -149,6 +149,8 @@ __Reading__:
 ## Day 11 - 2/18
 
 Outliers.  Metric Measure Spaces, Distance-to-Measure.
+[Recorded Lecture](https://uchicago.zoom.us/rec/share/lu8S-ONjAsGw5TMCs89j_ZfHSvTvsSyElyF9o19OaJf29EtUMKH5xwttT6O9Acm4.Irx-_SCdUak65qNI), 
+[PDF of iPad Notes](lectures/Lecture11.pdf).
 
 __Reading__:
 * Oudot Chapter 5.6

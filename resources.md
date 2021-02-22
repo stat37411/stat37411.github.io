@@ -70,6 +70,7 @@ V. de Silva, D. Morozov, and M. Vejdemo-Johansson.  Inverse Problems 27 (2011). 
 * "Persistent Homology Computation with a Twist" by C. Chen and M. Kerber. EuroCG 2011, Morschach, Switzerland, March 28–30, 2011. [Link](http://www.sci.utah.edu/~beiwang/teaching/cs6170-spring-2017/ChenKerber_2011.pdf)
 * "The Simplex Tree: An Efficient Data Structure for General Simplicial Complexes" by J.D. Boissonnat and C. Maria. Algorithmica (2014) 70:406–427. [Link](https://link-springer-com.proxy.uchicago.edu/article/10.1007/s00453-014-9887-3)
 * "Clear and Compress: Computing Persistent Homology in Chunks" by U. Bauer, M. Kerber, and J. Reininghaus. P.-T. Bremer et al. (eds.), Topological Methods in Data Analysis and Visualization III, Mathematics and Visualization (2014). [Link](https://link-springer-com.proxy.uchicago.edu/book/10.1007%2F978-3-319-04099-8)
+* "A roadmap for the computation of persistent homology" by N. Otter, M.A. Porter, U. Tillmann, P. Grindrod & H.A. Harrington.  EPJ Data Science volume 6, Article number: 17 (2017). [Link](https://epjdatascience.springeropen.com/articles/10.1140/epjds/s13688-017-0109-5)
 * "Persistent and Zigzag Homology: A Matrix Factorization Viewpoint" by G. Carlsson, A. Dwaraknath, and B.J. Nelson.  preprint (2019) [arXiv:1911.10693](https://arxiv.org/abs/1911.10693)
 
 ### Applications

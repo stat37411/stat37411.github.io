@@ -65,14 +65,23 @@ Review papers are a good place to look for high-level overviews of the field
 * "A tutorial on spectral clustering" by U. von Luxburg. Statistics and Computing. 17, pp. 395–416 (2007) [Online](https://link-springer-com.proxy.uchicago.edu/article/10.1007/s11222-007-9033-z)
 * "Topological Methods for the Analysis of High Dimensional Data Sets and 3D Object Recognition" by G. Singh, F. Memoli, and G. Carlsson. Eurographics Symposium on Point-Based Graphics (2007). [Link](https://research.math.osu.edu/tgda/mapperPBG.pdf)
 * "Zigzag Persistent Homology and Real-valued Functions" by G. Carlsson, V. de Silva, and D. Morozov. Sympoosium on Computational Geometry ’09, pp. 247–256, (2009) [Link](https://dl-acm-org.proxy.uchicago.edu/doi/10.1145/1542362.1542408), [Link 2](https://mrzv.org/publications/zigzags/socg09/)
+* "Dualities in persistent (co)homology" by
+V. de Silva, D. Morozov, and M. Vejdemo-Johansson.  Inverse Problems 27 (2011). [Link](https://iopscience-iop-org.proxy.uchicago.edu/article/10.1088/0266-5611/27/12/124003)
+* "Persistent Homology Computation with a Twist" by C. Chen and M. Kerber. EuroCG 2011, Morschach, Switzerland, March 28–30, 2011. [Link](http://www.sci.utah.edu/~beiwang/teaching/cs6170-spring-2017/ChenKerber_2011.pdf)
 * "The Simplex Tree: An Efficient Data Structure for General Simplicial Complexes" by J.D. Boissonnat and C. Maria. Algorithmica (2014) 70:406–427. [Link](https://link-springer-com.proxy.uchicago.edu/article/10.1007/s00453-014-9887-3)
+* "Clear and Compress: Computing Persistent Homology in Chunks" by U. Bauer, M. Kerber, and J. Reininghaus. P.-T. Bremer et al. (eds.), Topological Methods in Data Analysis and Visualization III, Mathematics and Visualization (2014). [Link](https://link-springer-com.proxy.uchicago.edu/book/10.1007%2F978-3-319-04099-8)
 * "Persistent and Zigzag Homology: A Matrix Factorization Viewpoint" by G. Carlsson, A. Dwaraknath, and B.J. Nelson.  preprint (2019) [arXiv:1911.10693](https://arxiv.org/abs/1911.10693)
 
 ### Applications
 
 * "On the Local Behavior of Spaces of Natural Images" by G. Carlsson, T. Ishkhanov, V. de Silva & A. Zomorodian. International Journal of Computer Vision vol. 76, pp. 1–12 (2008). [Link](https://link-springer-com.proxy.uchicago.edu/article/10.1007/s11263-007-0056-x)
 * "Extracting insights from the shape of complex data using topology" by P. Y. Lum, G. Singh, A. Lehman, T. Ishkanov, M. Vejdemo-Johansson, M. Alagappan, J. Carlsson, and G. Carlsson. Scientific Reports volume 3, Article number: 1236 (2013). [Link](https://www.nature.com/articles/srep01236) - this is about using Mapper for data analysis.
+* "Topology of viral evolution" by J.M. Chan, G. Carlsson, and R. Rabadan. PNAS November 12, 2013 110 (46) 18566-18571. [Link](http://www.pnas.org/cgi/doi/10.1073/pnas.1313480110)
 * "Identification of type 2 diabetes subgroups through topological analysis of patient similarity" by L. Li, W.Y. Cheng, B.S. Glicksberg, O. Gottesman, R Tamler, R. Chen, E.P. Bottinger, and J.T. Dudley. Sci Transl Med. 2015 October 28; 7(311): 311ra174. doi:10.1126/scitranslmed.aaa9364. [Link](https://pubmed.ncbi.nlm.nih.gov/26511511/) - Mapper used for identification of diabetes subgroups.
+* "Sliding Windows and Persistence: An Application of Topological Methods to Signal Analysis" by J.A. Perea & J. Harer. Foundations of Computational Mathematics volume 15, pp. 799–838 (2015). [Link](https://link-springer-com.proxy.uchicago.edu/article/10.1007/s10208-014-9206-z)
+* "Hierarchical structures of amorphous solids characterized by persistent homology" by Y. Hiraoka, T. Nakamura, A. Hirata, E.G. Escolar, K. Matsue, and Y. Nishiura. PNAS June 28, 2016 113 (26) pp. 7035-7040/ [Link](http://www.pnas.org/cgi/doi/10.1073/pnas.1520877113)
+* "TopologyNet: Topology based deep convolutional and multi-task neural networks for biomolecular property predictions" by Zixuan Cang, and Guo-Wei Wei. PLoS Comput Biol 13(7): e1005690. [Link](https://doi.org/10.1371/journal.pcbi.1005690)
+* "A Topological Regularizer for Classifiers via Persistent Homology" by C. Chen, X. Ni, Q. Bai, Y. Wang ; Proceedings of Machine Learning Research, PMLR 89:2573-2582, 2019. [Link](http://proceedings.mlr.press/v89/chen19g.html)
 
 
 ## Seminars

@@ -149,7 +149,7 @@ __Reading__:
 ## Day 11 - 2/18
 
 Outliers.  Metric Measure Spaces, Distance-to-Measure.
-[Recorded Lecture](https://uchicago.zoom.us/rec/share/lu8S-ONjAsGw5TMCs89j_ZfHSvTvsSyElyF9o19OaJf29EtUMKH5xwttT6O9Acm4.Irx-_SCdUak65qNI), 
+[Recorded Lecture](https://uchicago.zoom.us/rec/share/lu8S-ONjAsGw5TMCs89j_ZfHSvTvsSyElyF9o19OaJf29EtUMKH5xwttT6O9Acm4.Irx-_SCdUak65qNI),
 [PDF of iPad Notes](lectures/Lecture11.pdf).
 
 __Reading__:
@@ -159,6 +159,19 @@ __Reading__:
 * (Optional) "Efficient and robust persistent homology for measures" by M. Buchet, F. Chazal, S.Y. Oudot, D.R. Sheehy.
 
 ## Day 12 - 2/23
+
+Persistent homology optimizations: cohomology algorithm, clearing, compression.
+
+__Reading__:
+* Oudot Chapter 2.2 (especially 2.2.2)
+* (Recommended) "A roadmap for the computation of persistent homology" by N. Otter, M.A. Porter, U. Tillmann, P. Grindrod & H.A. Harrington.
+* (Optional) "Persistent Cohomology and Circular Coordinates" by V. de Silva, D. Morozov, and M. Vejdemo-Johansson.
+* (Optional) "Dualities in persistent (co)homology" by
+V. de Silva, D. Morozov, and M. Vejdemo-Johansson.
+* (Optional) "Persistent Homology Computation with a Twist" by C. Chen and M. Kerber.
+* (Optional) "Clear and Compress: Computing Persistent Homology in Chunks" by U. Bauer, M. Kerber, and J. Reininghaus.
+
+
 
 ## Day 13 - 2/25
 

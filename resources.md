@@ -62,9 +62,11 @@ Review papers are a good place to look for high-level overviews of the field
 
 ### Algorithms
 
+* "Vines and vineyards by updating persistence in linear time" by D. Cohen-Steiner, H. Edelsbrunner, and D. Morozov.  SCG '06: Proceedings of the twenty-second annual symposium on Computational geometry, June 2006, pp. 119–126 [Link](https://dl-acm-org.proxy.uchicago.edu/doi/10.1145/1137856.1137877)
 * "A tutorial on spectral clustering" by U. von Luxburg. Statistics and Computing. 17, pp. 395–416 (2007) [Online](https://link-springer-com.proxy.uchicago.edu/article/10.1007/s11222-007-9033-z)
 * "Topological Methods for the Analysis of High Dimensional Data Sets and 3D Object Recognition" by G. Singh, F. Memoli, and G. Carlsson. Eurographics Symposium on Point-Based Graphics (2007). [Link](https://research.math.osu.edu/tgda/mapperPBG.pdf)
 * "Zigzag Persistent Homology and Real-valued Functions" by G. Carlsson, V. de Silva, and D. Morozov. Sympoosium on Computational Geometry ’09, pp. 247–256, (2009) [Link](https://dl-acm-org.proxy.uchicago.edu/doi/10.1145/1542362.1542408), [Link 2](https://mrzv.org/publications/zigzags/socg09/)
+* "Persistent Cohomology and Circular Coordinates" by V. de Silva, D. Morozov, and M. Vejdemo-Johansson. Discrete & Computational Geometry volume 45, pp. 737–759 (2011). [Link](https://link-springer-com.proxy.uchicago.edu/article/10.1007/s00454-011-9344-x)
 * "Dualities in persistent (co)homology" by
 V. de Silva, D. Morozov, and M. Vejdemo-Johansson.  Inverse Problems 27 (2011). [Link](https://iopscience-iop-org.proxy.uchicago.edu/article/10.1088/0266-5611/27/12/124003)
 * "Persistent Homology Computation with a Twist" by C. Chen and M. Kerber. EuroCG 2011, Morschach, Switzerland, March 28–30, 2011. [Link](http://www.sci.utah.edu/~beiwang/teaching/cs6170-spring-2017/ChenKerber_2011.pdf)

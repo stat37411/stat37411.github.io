@@ -162,6 +162,8 @@ __Reading__:
 
 Persistent homology optimizations: cohomology algorithm, clearing, compression.
 
+__Code__: [BATS reduction](https://github.com/bnels/BATS/blob/master/include/homology/reduction.hpp)
+
 __Reading__:
 * Oudot Chapter 2.2 (especially 2.2.2)
 * (Recommended) "A roadmap for the computation of persistent homology" by N. Otter, M.A. Porter, U. Tillmann, P. Grindrod & H.A. Harrington.

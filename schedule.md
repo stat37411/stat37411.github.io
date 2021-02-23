@@ -150,7 +150,7 @@ __Reading__:
 
 Outliers.  Metric Measure Spaces, Distance-to-Measure.
 [Recorded Lecture](https://uchicago.zoom.us/rec/share/lu8S-ONjAsGw5TMCs89j_ZfHSvTvsSyElyF9o19OaJf29EtUMKH5xwttT6O9Acm4.Irx-_SCdUak65qNI),
-[PDF of iPad Notes](lectures/Lecture11.pdf).
+[PDF of iPad Notes](lectures/Lecture12.pdf).
 
 __Reading__:
 * Oudot Chapter 5.6
@@ -161,6 +161,7 @@ __Reading__:
 ## Day 12 - 2/23
 
 Persistent homology optimizations: cohomology algorithm, clearing, compression.
+[PDF of iPad Notes](lectures/Lecture13.pdf).
 
 __Code__: [BATS reduction](https://github.com/bnels/BATS/blob/master/include/homology/reduction.hpp)
 

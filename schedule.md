@@ -160,7 +160,8 @@ __Reading__:
 
 ## Day 12 - 2/23
 
-Persistent homology optimizations: cohomology algorithm, clearing, compression.
+Persistent homology optimizations: cohomology algorithm, clearing, compression. 
+[Recorded Lecture](https://uchicago.zoom.us/rec/share/Yg3f0XR3O9hzdfqEEVL59CzwUxddcGuSU3MP-sdiDnBJAeNcC1lEHaVN7Ezb5JEC.yxbFgsDgxrvhvvSi ),
 [PDF of iPad Notes](lectures/Lecture13.pdf).
 
 __Code__: [BATS reduction](https://github.com/bnels/BATS/blob/master/include/homology/reduction.hpp)

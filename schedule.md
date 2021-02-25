@@ -160,7 +160,7 @@ __Reading__:
 
 ## Day 12 - 2/23
 
-Persistent homology optimizations: cohomology algorithm, clearing, compression. 
+Persistent homology optimizations: cohomology algorithm, clearing, compression.
 [Recorded Lecture](https://uchicago.zoom.us/rec/share/Yg3f0XR3O9hzdfqEEVL59CzwUxddcGuSU3MP-sdiDnBJAeNcC1lEHaVN7Ezb5JEC.yxbFgsDgxrvhvvSi ),
 [PDF of iPad Notes](lectures/Lecture13.pdf).
 
@@ -175,9 +175,14 @@ V. de Silva, D. Morozov, and M. Vejdemo-Johansson.
 * (Optional) "Persistent Homology Computation with a Twist" by C. Chen and M. Kerber.
 * (Optional) "Clear and Compress: Computing Persistent Homology in Chunks" by U. Bauer, M. Kerber, and J. Reininghaus.
 
-
-
 ## Day 13 - 2/25
+
+Homotopy. Discrete Morse theory, and simplification.
+
+__Reading__:
+* Ghrist Chapter 7, especially 7.8
+* (Optional) Hatcher Chapter 2.1 (Homotopy Invariance)
+* (Optional) "Morse Theory for Filtrations and Efficient Computation of Persistent Homology" by K. Mischaikow and V. Nanda.
 
 ## Day 14 - 3/2
 

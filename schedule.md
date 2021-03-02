@@ -177,7 +177,7 @@ V. de Silva, D. Morozov, and M. Vejdemo-Johansson.
 
 ## Day 13 - 2/25
 
-Homotopy. Discrete Morse theory and simplification.
+Homotopy. Discrete Morse theory and simplification. [PDF of iPad Notes](lectures/Lecture14.pdf).
 
 __Reading__:
 * Ghrist Chapter 7, especially 7.8

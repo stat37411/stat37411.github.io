@@ -177,7 +177,7 @@ V. de Silva, D. Morozov, and M. Vejdemo-Johansson.
 
 ## Day 13 - 2/25
 
-Homotopy. Discrete Morse theory, and simplification.
+Homotopy. Discrete Morse theory and simplification.
 
 __Reading__:
 * Ghrist Chapter 7, especially 7.8
@@ -185,6 +185,13 @@ __Reading__:
 * (Optional) "Morse Theory for Filtrations and Efficient Computation of Persistent Homology" by K. Mischaikow and V. Nanda.
 
 ## Day 14 - 3/2
+
+Zigzag zoo, sparse filtrations.
+
+__Reading__:
+* Oudot 5.3, 5.4, 7.5.2
+* (Optional) "Zigzag Zoology: Rips Zigzags for Homology Inference" by S.Y. Oudot, D.R. Sheehy.
+* (Optional) "Linear-Size Approximations to the Vietoris–Rips Filtrations" by D.R. Sheehy.
 
 ## Day 15 - 3/4
 

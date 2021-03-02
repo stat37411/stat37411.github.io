@@ -46,6 +46,7 @@ Review papers are a good place to look for high-level overviews of the field
 ### Stability
 * "Stability of Persistence Diagrams" by  S. Cohen-Steiner, H. Edelsbrunner, and J. Harer. Discrete & Computational Geometry 37(1) pp. 103-120 (2007). [Link](https://link.springer.com/article/10.1007/s00454-006-1276-5)
 * "Gromov-Hausdorff Stable Signatures for Shapesusing Persistence" by F. Chazal, D. Cohen-Steiner, L.J. Guibas, F. Mémoli, and S.Y. Oudot. Eurographics Symposium on Geometry Processing 2009, Volume 28, Number 5. [Link](https://geometry.stanford.edu/papers/ccsgmo-ghsssp-09/ccsgmo-ghsssp-09.pdf)
+* "Linear-Size Approximations to the Vietoris–Rips Filtrations" by D.R. Sheehy. Discrete Comput Geom 49 pp. 778–796, (2013). [Link](https://link-springer-com.proxy.uchicago.edu/article/10.1007/s00454-013-9513-1)
 * "Metrics for Generalized Persistence Modules" by P. Bubenik, V. de Silva, and J. Scott.  Foundations of Computational Mathematics, Vol 15, pp. 1501–1531 (2015). [Link](https://link-springer-com.proxy.uchicago.edu/article/10.1007/s10208-014-9229-5)
 
 ### Sampling
@@ -53,6 +54,7 @@ Review papers are a good place to look for high-level overviews of the field
 * "Finding the Homology of Submanifolds with High Confidence from Random Samples" by P. Niyogi, S. Smale, S. Weinberger. Discrete & Computational Geometry Vol 39: pp. 419–441 (2008). [Link](https://link.springer.com/article/10.1007/s00454-008-9053-2)
 * "A Sampling Theory for Compact Sets in Euclidean Space" by F. Chazal, D. Cohen-Steiner & A. Lieutier. Discrete & Computational Geometry Vol 41, pp. 461–479 (2009). [Link](https://link.springer.com/article/10.1007/s00454-009-9144-8)
 * "Geometric Inference for Probability Measures" by F. Chazal, D. Cohen-Steiner & Q. Mérigot. Foundations of Computational Mathematics, volume 11, pp. 733–751(2011). [Link](https://link-springer-com.proxy.uchicago.edu/article/10.1007/s10208-011-9098-0)
+* "Zigzag Zoology: Rips Zigzags for Homology Inference" by S.Y. Oudot, D.R. Sheehy. Found Comput Math  15 pp. 1151–1186 (2015). [Link](https://link-springer-com.proxy.uchicago.edu/article/10.1007/s10208-014-9219-7)
 * "Efficient and robust persistent homology for measures" by M. Buchet, F. Chazal, S.Y. Oudot, D.R. Sheehy.  Computational Geometry 58 (2016) pp. 70–96. [Link](https://www.sciencedirect.com/science/article/pii/S0925772116300633?via%3Dihub)
 * "Topological consistency via kernel estimation" by O.  Bobrowski, S. Mukherjee, J. E. Taylor. Bernoulli 23 (1) 288 - 328, February 2017. https://doi.org/10.3150/15-BEJ744 [Link](https://projecteuclid.org/journals/bernoulli/volume-23/issue-1/Topological-consistency-via-kernel-estimation/10.3150/15-BEJ744.full?tab=ArticleLink)
 

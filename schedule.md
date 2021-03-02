@@ -177,7 +177,9 @@ V. de Silva, D. Morozov, and M. Vejdemo-Johansson.
 
 ## Day 13 - 2/25
 
-Homotopy. Discrete Morse theory and simplification. [PDF of iPad Notes](lectures/Lecture14.pdf).
+Homotopy. Discrete Morse theory and simplification.
+[Recorded Lecture](https://uchicago.zoom.us/rec/share/hs0S71rG6QI4G3XjtRV_Omh-_Gwg5L01U6RvpgpNWa-8BXGeCMCNobqd1mMjlbgQ.vv7LaXcWp4xSqgqC),
+[PDF of iPad Notes](lectures/Lecture14.pdf).
 
 __Reading__:
 * Ghrist Chapter 7, especially 7.8
@@ -187,6 +189,8 @@ __Reading__:
 ## Day 14 - 3/2
 
 Zigzag zoo, sparse filtrations.
+[Recorded Lecture](https://uchicago.zoom.us/rec/share/w94RJ05FKPhFvlZpDm0eY7HIetdoVwBUBSTrjVj06-OHx4oquOe3nhfjGHnSpdJs.XhU25WmgXl9jj2ib), 
+[PDF of iPad Notes](lectures/Lecture14.pdf).
 
 __Reading__:
 * Oudot 5.3, 5.4, 7.5.2

@@ -212,6 +212,7 @@ P. Škraba.
 
 ## Day 17 - 3/11
 
+Project presentations.
 
 ## Reading Period
 

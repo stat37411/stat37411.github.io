@@ -189,7 +189,7 @@ __Reading__:
 ## Day 14 - 3/2
 
 Zigzag zoo, sparse filtrations.
-[Recorded Lecture](https://uchicago.zoom.us/rec/share/w94RJ05FKPhFvlZpDm0eY7HIetdoVwBUBSTrjVj06-OHx4oquOe3nhfjGHnSpdJs.XhU25WmgXl9jj2ib), 
+[Recorded Lecture](https://uchicago.zoom.us/rec/share/w94RJ05FKPhFvlZpDm0eY7HIetdoVwBUBSTrjVj06-OHx4oquOe3nhfjGHnSpdJs.XhU25WmgXl9jj2ib),
 [PDF of iPad Notes](lectures/Lecture14.pdf).
 
 __Reading__:
@@ -198,6 +198,15 @@ __Reading__:
 * (Optional) "Linear-Size Approximations to the Vietoris–Rips Filtrations" by D.R. Sheehy.
 
 ## Day 15 - 3/4
+
+Applications to clustering and regularization.
+
+__Reading__:
+* Oudot Chapter 6
+* (Optional) "Persistence-Based Clustering in Riemannian Manifolds" by F. Chazal, L.J. Guibas, S.Y. Oudot, and
+P. Škraba.
+* (Optional) "A Topological Regularizer for Classifiers via Persistent Homology" by C. Chen, X. Ni, Q. Bai, Y. Wang.
+* (Optional) "A Topology Layer for Machine Learning" by R. Brüel-Gabrielsson, B.J. Nelson, A. Dwaraknath, P. Skraba, L.J. Guibas, and G. Carlsson.
 
 ## Day 16 - 3/9
 

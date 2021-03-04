@@ -83,6 +83,8 @@ V. de Silva, D. Morozov, and M. Vejdemo-Johansson.  Inverse Problems 27 (2011). 
 * "On the Local Behavior of Spaces of Natural Images" by G. Carlsson, T. Ishkhanov, V. de Silva & A. Zomorodian. International Journal of Computer Vision vol. 76, pp. 1–12 (2008). [Link](https://link-springer-com.proxy.uchicago.edu/article/10.1007/s11263-007-0056-x)
 * "Extracting insights from the shape of complex data using topology" by P. Y. Lum, G. Singh, A. Lehman, T. Ishkanov, M. Vejdemo-Johansson, M. Alagappan, J. Carlsson, and G. Carlsson. Scientific Reports volume 3, Article number: 1236 (2013). [Link](https://www.nature.com/articles/srep01236) - this is about using Mapper for data analysis.
 * "Topology of viral evolution" by J.M. Chan, G. Carlsson, and R. Rabadan. PNAS November 12, 2013 110 (46) 18566-18571. [Link](http://www.pnas.org/cgi/doi/10.1073/pnas.1313480110)
+* "Persistence-Based Clustering in Riemannian Manifolds" by F. Chazal, L.G. Guibas, S.Y. Oudot, and
+P. Škraba. Journal of the ACM, November 2013 Article No: 41. [Link](https://dl-acm-org.proxy.uchicago.edu/doi/10.1145/2535927)
 * "Identification of type 2 diabetes subgroups through topological analysis of patient similarity" by L. Li, W.Y. Cheng, B.S. Glicksberg, O. Gottesman, R Tamler, R. Chen, E.P. Bottinger, and J.T. Dudley. Sci Transl Med. 2015 October 28; 7(311): 311ra174. doi:10.1126/scitranslmed.aaa9364. [Link](https://pubmed.ncbi.nlm.nih.gov/26511511/) - Mapper used for identification of diabetes subgroups.
 * "Sliding Windows and Persistence: An Application of Topological Methods to Signal Analysis" by J.A. Perea & J. Harer. Foundations of Computational Mathematics volume 15, pp. 799–838 (2015). [Link](https://link-springer-com.proxy.uchicago.edu/article/10.1007/s10208-014-9206-z)
 * "Two’s company, three (or more) is a simplex: Algebraic-topological tools for understanding higher-order structure in neural data" by C. Giusti, R. Ghrist & D.S. Bassett.
@@ -90,6 +92,7 @@ Journal of Computational Neuroscience volume 41, pp. 1–14 (2016). [Link](https
 * "Hierarchical structures of amorphous solids characterized by persistent homology" by Y. Hiraoka, T. Nakamura, A. Hirata, E.G. Escolar, K. Matsue, and Y. Nishiura. PNAS June 28, 2016 113 (26) pp. 7035-7040/ [Link](http://www.pnas.org/cgi/doi/10.1073/pnas.1520877113)
 * "TopologyNet: Topology based deep convolutional and multi-task neural networks for biomolecular property predictions" by Zixuan Cang, and Guo-Wei Wei. PLoS Comput Biol 13(7): e1005690. [Link](https://doi.org/10.1371/journal.pcbi.1005690)
 * "A Topological Regularizer for Classifiers via Persistent Homology" by C. Chen, X. Ni, Q. Bai, Y. Wang ; Proceedings of Machine Learning Research, PMLR 89:2573-2582, 2019. [Link](http://proceedings.mlr.press/v89/chen19g.html)
+* "A Topology Layer for Machine Learning" by R. Brüel-Gabrielsson, B.J. Nelson, A. Dwaraknath, P. Skraba, L.J. Guibas, and G. Carlsson. Twenty Third International Conference on Artificial Intelligence and Statistics, PMLR 108:1553-1563, 2020. [Link](http://proceedings.mlr.press/v108/gabrielsson20a.html)
 
 
 ## Seminars

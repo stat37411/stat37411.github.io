@@ -190,7 +190,7 @@ __Reading__:
 
 Zigzag zoo, sparse filtrations.
 [Recorded Lecture](https://uchicago.zoom.us/rec/share/w94RJ05FKPhFvlZpDm0eY7HIetdoVwBUBSTrjVj06-OHx4oquOe3nhfjGHnSpdJs.XhU25WmgXl9jj2ib),
-[PDF of iPad Notes](lectures/Lecture14.pdf).
+[PDF of iPad Notes](lectures/Lecture15.pdf).
 
 __Reading__:
 * Oudot 5.3, 5.4, 7.5.2
@@ -200,6 +200,8 @@ __Reading__:
 ## Day 15 - 3/4
 
 Applications to clustering and regularization.
+[Recorded Lecture](https://uchicago.zoom.us/rec/share/cjEwoDWl-0oA27t8b1Cib9e9dZDYsEEDceMWnAjjN3wQbaksZiahACw35Q296dYN.wUu9CPmzwBsZxSIZ),
+[PDF of iPad Notes](lectures/Lecture16.pdf).
 
 __Reading__:
 * Oudot Chapter 6

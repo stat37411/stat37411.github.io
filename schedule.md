@@ -212,6 +212,14 @@ P. Škraba.
 
 ## Day 16 - 3/9
 
+Multidimensional and Generalized Persistence.
+
+__Reading__:
+* Oudot Chapters 8 & 9
+* (Optional) "The Theory of Multidimensional Persistence" by G. Carlsson and A. Zomorodian.
+* (Optional) "The Theory of the Interleaving Distance on Multidimensional Persistence Modules" by M. Lesnick.
+* (Optional) "Metrics for Generalized Persistence Modules" by P. Bubenik, V. de Silva, and J. Scott.
+
 ## Day 17 - 3/11
 
 Project presentations.

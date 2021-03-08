@@ -41,12 +41,14 @@ Review papers are a good place to look for high-level overviews of the field
 * "Topological Persistence and Simplification" by H. Edelsbrunner, D. Letscher and A. Zomorodian. Discrete & Computational Geometry volume 28, pp. 511–533 (2002). [Link](https://link.springer.com/article/10.1007/s00454-002-2885-2)
 * "Topological Estimation Using Witness Complexes" by V. de Silva and G. Carlsson. Eurographics Symposium on Point-Based Graphics (2004). [Link](https://diglib.eg.org/handle/10.2312/SPBG.SPBG04.157-166)
 * "Computing Persistent Homology" by A. Zomorodian and G. Carlsson.  Discrete & Computational Geometry volume 33, pp. 249–274 (2005). [Link](https://link.springer.com/article/10.1007%2Fs00454-004-1146-y)
+* "The Theory of Multidimensional Persistence" by G. Carlsson and A. Zomorodian.  Discrete Comput Geom 42: pp. 71–93 (2009). [Link](https://link-springer-com.proxy.uchicago.edu/article/10.1007/s00454-009-9176-0)
 * "Zigzag Persistence" by G. Carlsson and V. de Silva.  Foundations of Computational Mathematics, vol. 10: pp. 367–405, (2010). [Link](https://link.springer.com/article/10.1007/s10208-010-9066-0)
 
 ### Stability
 * "Stability of Persistence Diagrams" by  S. Cohen-Steiner, H. Edelsbrunner, and J. Harer. Discrete & Computational Geometry 37(1) pp. 103-120 (2007). [Link](https://link.springer.com/article/10.1007/s00454-006-1276-5)
 * "Gromov-Hausdorff Stable Signatures for Shapesusing Persistence" by F. Chazal, D. Cohen-Steiner, L.J. Guibas, F. Mémoli, and S.Y. Oudot. Eurographics Symposium on Geometry Processing 2009, Volume 28, Number 5. [Link](https://geometry.stanford.edu/papers/ccsgmo-ghsssp-09/ccsgmo-ghsssp-09.pdf)
 * "Linear-Size Approximations to the Vietoris–Rips Filtrations" by D.R. Sheehy. Discrete Comput Geom 49 pp. 778–796, (2013). [Link](https://link-springer-com.proxy.uchicago.edu/article/10.1007/s00454-013-9513-1)
+* "The Theory of the Interleaving Distance on Multidimensional Persistence Modules" by M. Lesnick.  Foundations of Computational Mathematics 15, pp. 613–650 (2015). [Link](https://link-springer-com.proxy.uchicago.edu/article/10.1007/s10208-015-9255-y)
 * "Metrics for Generalized Persistence Modules" by P. Bubenik, V. de Silva, and J. Scott.  Foundations of Computational Mathematics, Vol 15, pp. 1501–1531 (2015). [Link](https://link-springer-com.proxy.uchicago.edu/article/10.1007/s10208-014-9229-5)
 
 ### Sampling

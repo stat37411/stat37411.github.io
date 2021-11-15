@@ -1,5 +1,7 @@
 # Schedule
 
+**This schedule is for the 2021 offering of the course.  It will be updated for 2022.**
+
 This course follows a Tuesday/Thursday Schedule.  There is a section for each day, with materials for that day.  This schedule is subject to change before a class is held.
 
 Links to readings can be found on the [resources page](resources.md).

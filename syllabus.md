@@ -2,7 +2,7 @@
 
 Course number: [CAAM 37830=STAT 37411](https://stat.uchicago.edu/academics/course-info/2020-2021-courses/winter-2021-stat-37411/)
 
-Lectures: T/Th 2:40-4:00 PM (Winter Quarter)
+Lectures: MW 10:30 AM–11:50 AM (Winter Quarter)
 
 ## People
 Instructor:  [Brad Nelson](https://bnels.github.io/). William H. Kruskal Instructor in the Department of Statistics. Office Hours TBD.
@@ -32,9 +32,7 @@ If you want to take the course pass/fail, the homework is optional.  Please disc
 
 ## Course Format
 
-This course is scheduled to meet T/Th 2:40-4:00 PM.  Due to Covid-19, this course will be remote.
-
-Lectures will be held live over zoom, with the intent to encourage interaction.  Lectures will be recorded in case you are in another timezone or have a conflict.
+This course is scheduled to meet MW 10:30 AM–11:50 AM.  The course is planned to be in-person following the University of Chicago COVID-19 policies.
 
 There will be several homework assignments (probably 3-4) which will be a mix of theory/conceptual questions (this will involve some proofs), and coding/data analysis questions.
 
@@ -42,7 +40,7 @@ There will be a paper review which will involve reading a paper related to topol
 
 The project can be individual or in a small group (2-3 people).  Group projects are encouraged. The project can involve an investigation into theory, algorithms, applications, or some mix.  We'll have project presentations (or recorded presentation videos) the last few days of class.
 
-A small piece of your grade be based on showing up to lecture and participating.  If you are unable to attend lecture more than 70% of the time (e.g. if you're in a different time zone), we'll provide some way to get the participation points (e.g. contributing to online discussion).
+A small piece of your grade be based on showing up to lecture and participating.  If you are unable to attend lecture more than 70% of the time, we'll provide some way to get the participation points (e.g. contributing to online discussion).
 
 
 ### Grading Policy
@@ -71,10 +69,11 @@ If you find helpful information online, put a note about what you used as well a
 
 ## Textbook & Readings
 
-This is a graduate-level course on a fairly young field, so we'll draw material from a couple different sources.  There isn't a canonical textbook on the material, but we'll try to stick to a few sources/review papers.
+This is a graduate-level course on a fairly young field, so we'll draw material from a couple of different sources.  There isn't a canonical textbook on the material, but we'll try to stick to a few sources/review papers.
 
-We'll use the following book as our primary text:
-* Persistence Theory: From Quiver Representations to Data Analysis, by Oudot
+The following book serves as the primary reference:
+* Persistence Theory: From Quiver Representations to Data Analysis, by Oudot.
+You can find an online version through the UChicago library on the [Resources page](resources.md).
 
 This book surveys the field of topological data analysis as of a few years ago, but isn't really written like a text book (i.e. with exercises).  It will serve as a good reference for most topics we'll cover.  Parts of this book are more advanced than what we'll cover in this course.
 

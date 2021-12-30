@@ -27,6 +27,10 @@ These books are both graduate-level introductions to algebraic topology.
 
 This book contains early descriptions of persistent homology as well as some of the early motivating applications.
 
+* "Topological Signal Processing" by Robinson - [UChicago Library Online Resource](https://catalog.lib.uchicago.edu/vufind/Record/11083499)
+
+This book is gives another applied topology perspective with a focus on signal processing.  There are a variety of interesting applications inside.
+
 ## Papers
 
 ### Review Papers
@@ -121,6 +125,10 @@ Mapper
 
 * [Keppler Mapper](https://kepler-mapper.scikit-tda.org/en/latest/) (Python)
 * [TDAMapper](https://github.com/paultpearson/TDAmapper/blob/master/README.md) (R)
+
+Multi-parameter persistence
+
+* RIVET
 
 
 

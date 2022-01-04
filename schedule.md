@@ -12,6 +12,9 @@ Schedule Archives: [Winter 2021](archive/schedule_w2021.md)
 
 Introduction to topological data analysis.  
 
+__Code:__
+* [Demo Notebook for Class](https://github.com/stat37411/lectures/blob/main/winter2022/Lecture%201.ipynb)
+
 __Reading:__
 * Introduction of Oudot,
 * peruse Chapter 2 of Ghrist,

@@ -31,6 +31,10 @@ This book contains early descriptions of persistent homology as well as some of 
 
 This book is gives another applied topology perspective with a focus on signal processing.  There are a variety of interesting applications inside.
 
+* "Algebraic Foundations for Topological Data Analysis" by Schenk - [Draft on Author's Site](http://webhome.auburn.edu/~hks0015/data2.pdf)
+
+This recent draft is a more-or-less self contained to algebraic aspects of TDA.  The target audience is 1st year statistics students, similar to this course.
+
 ## Papers
 
 ### Review Papers

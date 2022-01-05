@@ -26,6 +26,7 @@ Preliminaries: Graphs, Clustering, Disjoint Set/Union-find, the Graph Laplacian.
 
 __Code:__
 * [`union_find.hpp`](https://github.com/stat37411/tda/blob/main/include/union_find.hpp)
+* [Notebook on Spectral Clustering](https://github.com/stat37411/lectures/blob/main/winter2022/Lecture%202.ipynb)
 
 __Reading:__
 * (Optional) "A tutorial on spectral clustering" by von Luxburg.

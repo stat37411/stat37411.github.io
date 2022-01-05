@@ -23,10 +23,10 @@ You are welcome to use whatever programming language you like.  Matlab, R, Julia
 
 ## Evaluation
 
-* Homework (35% of final grade)
+* Homework (30% of final grade)
 * Paper Review (15% of final grade)
 * Project (45% of final grade)
-* Participation (5% of final grade)
+* Lecture Transcription (10% of final grade)
 
 If you want to take the course pass/fail, the homework is optional.  Please discuss with the instructor if you intend to go this route.
 
@@ -40,7 +40,7 @@ There will be a paper review which will involve reading a paper related to topol
 
 The project can be individual or in a small group (2-3 people).  The project can involve an investigation into theory, algorithms, applications, or some mix.  We'll have project presentations (or recorded presentation videos) the last few days of class.
 
-A small piece of your grade be based on showing up to lecture and participating.  If you are unable to attend lecture more than 70% of the time, we'll provide some way to get the participation points (e.g. contributing to online discussion).
+Lecture transcription is a chance to practice technical writing and an opportunity to dive deeper and more carefully into the material covered on one day of class.  There may be more students than lectures, so you may have a partner.  This will involve formatting your notes in LaTeX (a template will be provided as well as additional notes), filling in some details from the readings, and potentially extracting some figures from demonstration code.  Once the notes are finalized, they will be made available to other students in the class.
 
 
 ### Grading Policy

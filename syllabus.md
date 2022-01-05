@@ -1,8 +1,8 @@
 # Syllabus
 
-Course number: [CAAM 37830=STAT 37411](https://stat.uchicago.edu/academics/course-info/2020-2021-courses/winter-2021-stat-37411/)
+Course number: [CAAM 37830=STAT 37411](https://stat.uchicago.edu/academics/course-info/2021-2022-courses/winter-2022-stat-37411/)
 
-Lectures: MW 10:30 AM–11:50 AM (Winter Quarter)
+Lectures: MW 10:30 AM–11:50 AM Jones 226 (Winter Quarter)
 
 ## People
 Instructor:  [Brad Nelson](https://bnels.github.io/). William H. Kruskal Instructor in the Department of Statistics. Office Hours TBD.
@@ -34,11 +34,11 @@ If you want to take the course pass/fail, the homework is optional.  Please disc
 
 This course is scheduled to meet MW 10:30 AM–11:50 AM.  The course is planned to be in-person following the University of Chicago COVID-19 policies.
 
-There will be several homework assignments (probably 3-4) which will be a mix of theory/conceptual questions (this will involve some proofs), and coding/data analysis questions.
+There will be a couple of homework assignments which will be a mix of theory/conceptual questions, and coding/data analysis questions.
 
 There will be a paper review which will involve reading a paper related to topological data analysis and writing a review of the paper.  The paper can be on theory, algorithms, or applications.  Some suggestions will be provided, but you can choose something else that you find interesting/relevant.
 
-The project can be individual or in a small group (2-3 people).  Group projects are encouraged. The project can involve an investigation into theory, algorithms, applications, or some mix.  We'll have project presentations (or recorded presentation videos) the last few days of class.
+The project can be individual or in a small group (2-3 people).  The project can involve an investigation into theory, algorithms, applications, or some mix.  We'll have project presentations (or recorded presentation videos) the last few days of class.
 
 A small piece of your grade be based on showing up to lecture and participating.  If you are unable to attend lecture more than 70% of the time, we'll provide some way to get the participation points (e.g. contributing to online discussion).
 

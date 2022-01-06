@@ -7,6 +7,8 @@ Lectures: MW 10:30 AM–11:50 AM Jones 226 (Winter Quarter)
 ## People
 Instructor:  [Brad Nelson](https://bnels.github.io/). William H. Kruskal Instructor in the Department of Statistics. Office Hours TBD.
 
+Grader: Yuan Luo. 2nd Year CAAM MS.
+
 ## Course Description
 Topological data analysis seeks to understand and exploit topology when exploring and learning from data. This course surveys core ideas and recent developments in the field and will prepare students to use topology in data analysis tasks.  The core of the course will include computation with topological spaces, the mapper algorithm, and persistent homology, and cover theoretical results, algorithms, and a variety of applications.  Additional topics from algebraic topology, metric geometry, category theory, and quiver representation theory will be developed from applied and computational perspectives.
 

@@ -10,7 +10,7 @@ Schedule Archives: [Winter 2021](archive/schedule_w2021.md)
 
 ## Day 00 - 1/10
 
-Introduction to topological data analysis.  
+Introduction to topological data analysis.  [Lecture Recording](https://uchicago.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=21ece05a-0e31-4689-ab28-ae1a0062c213)
 
 __Code:__
 * [Demo Notebook for Class](https://github.com/stat37411/lectures/blob/main/winter2022/Lecture%201.ipynb)

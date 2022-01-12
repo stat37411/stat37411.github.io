@@ -10,7 +10,7 @@ Schedule Archives: [Winter 2021](archive/schedule_w2021.md)
 
 ## Day 00 - 1/10
 
-Introduction to topological data analysis.  [Lecture Recording](https://uchicago.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=21ece05a-0e31-4689-ab28-ae1a0062c213)
+Introduction to topological data analysis.  [Lecture Recording](https://uchicago.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=21ece05a-0e31-4689-ab28-ae1a0062c213)  [iPad Notes](lectures/Lecture_01.pdf)
 
 __Code:__
 * [Demo Notebook for Class](https://github.com/stat37411/lectures/blob/main/winter2022/Lecture%201.ipynb)
@@ -24,11 +24,14 @@ __Reading:__
 
 Preliminaries: Graphs, Clustering, Disjoint Set/Union-find, the Graph Laplacian.
 
+[Lecture Recording](https://uchicago.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=21ece05a-0e31-4689-ab28-ae1a0062c213)  [iPad Notes](lectures/Lecture_02.pdf)  [Notes on Spectral Clustering](notes/spectral_clustering_notes.pdf)
+
 __Code:__
 * [`union_find.hpp`](https://github.com/stat37411/tda/blob/main/include/union_find.hpp)
 * [Notebook on Spectral Clustering](https://github.com/stat37411/lectures/blob/main/winter2022/Lecture%202.ipynb)
 
 __Reading:__
+* (Recommended) "An Impossibility Theorem for Clustering" by Jon Kleinberg: [link](An Impossibility Theorem for Clustering)
 * (Optional) "A tutorial on spectral clustering" by von Luxburg.
 * (Optional) You can also find some notes on spectral clustering in Python [here](https://caam37830.github.io/book/05_graphs/spectral.html).
 

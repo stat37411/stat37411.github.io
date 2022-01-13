@@ -39,6 +39,10 @@ __Reading:__
 
 ## Day 02 - 1/17
 
+**MLK Day. No Class**
+
+## Day 03 - 1/19
+
 Basic Topology (spaces, maps, homotopy).  Simplicial Complexes.  Simplicial Maps.  Constructions.
 
 __Reading:__
@@ -47,7 +51,7 @@ __Reading:__
 * (Optional): Hatcher Chapter 0.
 
 
-## Day 03 - 1/19
+## Day 04 - 1/24
 
 Nerve of a cover, witness complexes, Mapper algorithm. Tries.
 
@@ -62,7 +66,7 @@ __Reading:__
 * (Optional) "Extracting insights from the shape of complex data using topology" by P. Y. Lum et al.
 * (Optional) "Identification of type 2 diabetes subgroups through topological analysis of patient similarity" by L. Li et al.
 
-## Day 04 - 1/24
+## Day 05 - 1/26
 
 (Cellular) chain complexes, (Cellular) homology, reduction algorithm.  
 
@@ -76,7 +80,7 @@ __Reading:__
 * (Optional) "Topological Persistence and Simplification" by H. Edelsbrunner, D. Letscher and A. Zomorodian.
 
 
-## Day 05 - 1/26
+## Day 06 - 1/31
 
 Filtrations, persistent homology.
 
@@ -93,7 +97,7 @@ __Reading:__
 
 Due noon on Feb. 3, 2021.
 
-## Day 06 - 1/31
+## Day 07 - 2/2
 
 Pairs, barcodes, diagrams, bottleneck distance, features.
 
@@ -106,7 +110,7 @@ __Reading__:
 * (Optional) "The Ring of Algebraic Functions on Persistence Bar Codes" by A. Adcock, E. Carlsson, and G. Carlsson.
 * (Optional) "Statistical Topological Data Analysis using Persistence Landscapes" by P. Bubenik.
 
-## Day 07 - 2/2
+## Day 08 - 2/7
 
 Quiver Representations, Zigzag Homology.
 
@@ -123,7 +127,7 @@ __Reading__:
 
 Due noon on Feb. 17, 2021.
 
-## Day 08 - 2/7
+## Day 09 - 2/9
 
 Interleavings, Interleaving Distance, Isometry Theorem.
 
@@ -132,7 +136,7 @@ __Reading__:
 * Ghrist Chapter 10.6
 * (Optional) "Metrics for Generalized Persistence Modules" by P. Bubenik, V. de Silva, and J. Scott.
 
-## Day 09 - 2/9
+## Day 10 - 2/14
 
 Reach, Weak Feature Size, Sampling.
 
@@ -141,11 +145,10 @@ __Reading__:
 * (Optional) "Finding the Homology of Submanifolds with High Confidence from Random Samples" by P. Niyogi, S. Smale, S. Weinberger.
 * (Optional) "A Sampling Theory for Compact Sets in Euclidean Space" by F. Chazal, D. Cohen-Steiner & A. Lieutier.
 
-## Day 10 - 2/14
+## Day 11 - 2/16
 
 Klein bottle in Image Patches.
-[Recorded Lecture](https://uchicago.zoom.us/rec/share/9WqiXu1GytTCRD042sAvAmO5XzPVcgMscEeBvtDr4QVvfsiho2zqXKc3IeO46BZ9.MfTk7GKIBOACzdH5),
-[PDF of iPad Notes](lectures/Lecture11.pdf).
+
 
 __Reading__:
 * Ghrist Chapter 5.14
@@ -153,7 +156,7 @@ __Reading__:
 * (Optional) "On the Local Behavior of Spaces of Natural Images" by G. Carlsson, T. Ishkhanov, V. de Silva & A. Zomorodian.
 * (Optional) "Topological Estimation Using Witness Complexes" by V. de Silva and G. Carlsson.
 
-## Day 11 - 2/16
+## Day 12 - 2/21
 
 Outliers.  Metric Measure Spaces, Distance-to-Measure.
 
@@ -163,7 +166,7 @@ __Reading__:
 * (Optional) "Geometric Inference for Probability Measures" by F. Chazal, D. Cohen-Steiner & Q. Mérigot.
 * (Optional) "Efficient and robust persistent homology for measures" by M. Buchet, F. Chazal, S.Y. Oudot, D.R. Sheehy.
 
-## Day 12 - 2/21
+## Day 13 - 2/23
 
 Persistent homology optimizations: cohomology algorithm, clearing, compression.
 
@@ -178,7 +181,7 @@ V. de Silva, D. Morozov, and M. Vejdemo-Johansson.
 * (Optional) "Persistent Homology Computation with a Twist" by C. Chen and M. Kerber.
 * (Optional) "Clear and Compress: Computing Persistent Homology in Chunks" by U. Bauer, M. Kerber, and J. Reininghaus.
 
-## Day 13 - 2/23
+## Day 14 - 2/28
 
 Homotopy. Discrete Morse theory and simplification.
 
@@ -187,7 +190,7 @@ __Reading__:
 * (Optional) Hatcher Chapter 2.1 (Homotopy Invariance)
 * (Optional) "Morse Theory for Filtrations and Efficient Computation of Persistent Homology" by K. Mischaikow and V. Nanda.
 
-## Day 14 - 2/28
+## Day 15 - 3/2
 
 Zigzag zoo, sparse filtrations.
 
@@ -196,7 +199,7 @@ __Reading__:
 * (Optional) "Zigzag Zoology: Rips Zigzags for Homology Inference" by S.Y. Oudot, D.R. Sheehy.
 * (Optional) "Linear-Size Approximations to the Vietoris–Rips Filtrations" by D.R. Sheehy.
 
-## Day 15 - 3/2
+## Day 16 - 3/7
 
 Applications to clustering and regularization.
 
@@ -207,7 +210,7 @@ P. Škraba.
 * (Optional) "A Topological Regularizer for Classifiers via Persistent Homology" by C. Chen, X. Ni, Q. Bai, Y. Wang.
 * (Optional) "A Topology Layer for Machine Learning" by R. Brüel-Gabrielsson, B.J. Nelson, A. Dwaraknath, P. Skraba, L.J. Guibas, and G. Carlsson.
 
-## Day 16 - 3/7
+## Day 17 - 3/9
 
 Multidimensional and Generalized Persistence.
 
@@ -217,7 +220,7 @@ __Reading__:
 * (Optional) "The Theory of the Interleaving Distance on Multidimensional Persistence Modules" by M. Lesnick.
 * (Optional) "Metrics for Generalized Persistence Modules" by P. Bubenik, V. de Silva, and J. Scott.
 
-## Day 17 - 3/9
+## Day 18
 
 Project presentations.
 

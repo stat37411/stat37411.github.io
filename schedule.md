@@ -12,7 +12,7 @@ Schedule Archives: [Winter 2021](archive/schedule_w2021.md)
 
 Introduction to topological data analysis.  
 
-[Lecture Recording](https://uchicago.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=21ece05a-0e31-4689-ab28-ae1a0062c213) / [iPad Notes](lectures/Lecture_01.pdf)
+[Lecture Recording](https://uchicago.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=21ece05a-0e31-4689-ab28-ae1a0062c213) / [iPad Notes](lectures/Lecture_01.pdf) / [Transcribed Notes](notes/Topological_Data_Analysis_STAT37411_notes.pdf#chapter.1)
 
 __Code:__
 * [Demo Notebook for Class](https://github.com/stat37411/lectures/blob/main/winter2022/Lecture%201.ipynb)
@@ -26,7 +26,7 @@ __Reading:__
 
 Preliminaries: Graphs, Clustering, Disjoint Set/Union-find, the Graph Laplacian.
 
-[Lecture Recording](https://uchicago.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=21ece05a-0e31-4689-ab28-ae1a0062c213) / [iPad Notes](lectures/Lecture_02.pdf) / [Notes on Spectral Clustering](notes/spectral_clustering_notes.pdf)
+[Lecture Recording](https://uchicago.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=21ece05a-0e31-4689-ab28-ae1a0062c213) / [iPad Notes](lectures/Lecture_02.pdf) / [Notes on Spectral Clustering](notes/Topological_Data_Analysis_STAT37411_notes.pdf#section.2.3)
 
 __Code:__
 * [`union_find.hpp`](https://github.com/stat37411/tda/blob/main/include/union_find.hpp)

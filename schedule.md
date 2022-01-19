@@ -45,6 +45,9 @@ __Reading:__
 
 Basic Topology (spaces, maps, homotopy).  Simplicial Complexes.  Simplicial Maps.  Constructions.
 
+__Code:__
+* [Demo Notebook for Class](https://github.com/stat37411/lectures/blob/main/winter2022/Lecture%203.ipynb)
+
 __Reading:__
 * Ghrist: Preface and Chapter 2.
 * (Optional): Munkres Sections 1.1 and 1.2.

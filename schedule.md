@@ -44,6 +44,7 @@ __Reading:__
 ## Day 03 - 1/19
 
 Basic Topology (spaces, maps, homotopy).  Simplicial Complexes.  Simplicial Maps.  Constructions.
+[Lecture Recording](https://uchicago.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=dd368457-38ed-4039-b22b-ae22013a3f6d) / [iPad Notes](lectures/Lecture_03.pdf)
 
 __Code:__
 * [Demo Notebook for Class](https://github.com/stat37411/lectures/blob/main/winter2022/Lecture%203.ipynb)

@@ -60,6 +60,8 @@ __Reading:__
 
 Nerve of a cover, witness complexes, Mapper algorithm. Tries.
 
+[Lecture Recording](https://uchicago.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=ef3e8e79-ac56-4cf2-9a00-ae2701352cd4) / Zoom dropped the call for the final 20 minutes, which was a discussion of use of Mapper by Li et al. in the readings below, and a brief overview of the trie data structure.
+
 __Code:__ [`trie.py`](https://github.com/stat37411/tda/blob/main/tda/trie.py)  [`simplicial_complex.py`](https://github.com/stat37411/tda/blob/main/tda/simplicial_complex.py)  [demo notebook](https://github.com/stat37411/tda/blob/main/ipynb/simplex.ipynb)
 
 For an open-source Mapper implementation (in Python), check out [Kepler Mapper](https://kepler-mapper.scikit-tda.org/en/latest/).

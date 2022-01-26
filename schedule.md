@@ -81,6 +81,8 @@ Due 10:30am on Feb. 9, 2022. [Link](homework/Homework_1.pdf)
 
 (Cellular) chain complexes, (Cellular) homology, reduction algorithm.  
 
+[Lecture Recording](https://uchicago.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=40b97ce2-fdaa-4ab5-8eea-ae29012f23da)
+
 __Code:__ [chain.ipynb](https://github.com/stat37411/tda/blob/main/ipynb/chain.ipynb)
 
 __Reading:__

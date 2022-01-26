@@ -81,7 +81,7 @@ Due 10:30am on Feb. 9, 2022. [Link](homework/Homework_1.pdf)
 
 (Cellular) chain complexes, (Cellular) homology, reduction algorithm.  
 
-__Code:__
+__Code:__ [chain.ipynb](https://github.com/stat37411/tda/blob/main/ipynb/chain.ipynb)
 
 __Reading:__
 * Ghrist Chapter 4

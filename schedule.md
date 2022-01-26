@@ -73,6 +73,10 @@ __Reading:__
 * (Optional) "Extracting insights from the shape of complex data using topology" by P. Y. Lum et al.
 * (Optional) "Identification of type 2 diabetes subgroups through topological analysis of patient similarity" by L. Li et al.
 
+## Homework 1
+
+Due 10:30am on Feb. 9, 2022. [Link](homework/Homework_1.pdf)
+
 ## Day 05 - 1/26
 
 (Cellular) chain complexes, (Cellular) homology, reduction algorithm.  
@@ -100,9 +104,7 @@ __Reading:__
 * (Optional) For some nice visualizations, see Anjan Dwaraknath's Slides: [Link](https://anjandn.github.io/quivertalkslides/)
 
 
-## Homework 1
 
-Due noon on Feb. 3, 2021.
 
 ## Day 07 - 2/2
 
@@ -135,6 +137,8 @@ __Reading__:
 Due noon on Feb. 17, 2021.
 
 ## Day 09 - 2/9
+
+__Homework 1 due__
 
 Interleavings, Interleaving Distance, Isometry Theorem.
 

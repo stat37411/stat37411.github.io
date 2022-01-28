@@ -26,7 +26,7 @@ __Reading:__
 
 Preliminaries: Graphs, Clustering, Disjoint Set/Union-find, the Graph Laplacian.
 
-[Lecture Recording](https://uchicago.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=5a5a21b0-3d49-4c74-8113-ae1b0139e0f5) / [iPad Notes](lectures/Lecture_02.pdf) / [Notes on Spectral Clustering](notes/Topological_Data_Analysis_STAT37411_notes.pdf#section.2.3)
+[Lecture Recording](https://uchicago.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=5a5a21b0-3d49-4c74-8113-ae1b0139e0f5) / [iPad Notes](lectures/Lecture_02.pdf) / [Transcribed Notes](notes/Topological_Data_Analysis_STAT37411_notes.pdf#chapter.1)
 
 __Code:__
 * [`union_find.hpp`](https://github.com/stat37411/tda/blob/main/include/union_find.hpp)

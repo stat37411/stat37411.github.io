@@ -95,7 +95,9 @@ __Reading:__
 
 ## Day 06 - 1/31
 
-Filtrations, persistent homology.
+Reduction algorithm, persistent homology.
+
+[Lecture Recording](https://uchicago.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=de85d7a9-32e1-4e5d-93ee-ae2e01326ee4)
 
 __Code:__
 

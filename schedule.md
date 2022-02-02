@@ -112,7 +112,11 @@ __Reading:__
 
 (Persistent) homology wrap-up, basic implementation, clearing & compression optimizations.
 
-__Code:__ [BATS reduction](https://github.com/bnels/BATS/blob/master/include/homology/reduction.hpp)
+__Code:__
+[filtration.ipynb](https://github.com/stat37411/tda/blob/main/ipynb/filtration.ipynb),
+[reduction.py](https://github.com/stat37411/tda/blob/main/tda/reduction.py),
+[chain.py](https://github.com/stat37411/tda/blob/main/tda/chain.py),
+[BATS reduction](https://github.com/bnels/BATS/blob/master/include/homology/reduction.hpp)
 
 __Reading:__
 * "Computing Persistent Homology" by A. Zomorodian and G. Carlsson.
@@ -197,7 +201,7 @@ __Reading__:
 
 Cohomology, Applications
 
-__Code__: 
+__Code__:
 
 __Reading__:
 * (Optional) "Persistent Cohomology and Circular Coordinates" by V. de Silva, D. Morozov, and M. Vejdemo-Johansson.

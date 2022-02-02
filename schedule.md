@@ -116,7 +116,8 @@ __Code:__
 [filtration.ipynb](https://github.com/stat37411/tda/blob/main/ipynb/filtration.ipynb),
 [reduction.py](https://github.com/stat37411/tda/blob/main/tda/reduction.py),
 [chain.py](https://github.com/stat37411/tda/blob/main/tda/chain.py),
-[BATS reduction](https://github.com/bnels/BATS/blob/master/include/homology/reduction.hpp)
+[BATS reduction](https://github.com/bnels/BATS/blob/master/include/homology/reduction.hpp),
+[Reduction options in BATS](https://bats-tda.readthedocs.io/en/latest/tutorials/Rips.html)
 
 __Reading:__
 * "Computing Persistent Homology" by A. Zomorodian and G. Carlsson.

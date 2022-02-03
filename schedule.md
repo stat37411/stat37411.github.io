@@ -112,6 +112,8 @@ __Reading:__
 
 (Persistent) homology wrap-up, basic implementation, clearing & compression optimizations.
 
+[Lecture Recording](https://uchicago.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=6cde2e4c-49d2-48f3-b8b2-ae3100f7da91) / [iPad Notes](lectures/Lecture_07.pdf)
+
 __Code:__
 [filtration.ipynb](https://github.com/stat37411/tda/blob/main/ipynb/filtration.ipynb),
 [reduction.py](https://github.com/stat37411/tda/blob/main/tda/reduction.py),

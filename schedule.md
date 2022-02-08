@@ -133,7 +133,9 @@ __Reading:__
 
 Pairs, barcodes, diagrams, bottleneck distance, features.
 
-__Code__:
+[Lecture Recording](https://uchicago.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=127e86b6-0b99-45ac-a96a-ae35013e325a)
+
+__Code__: [notebook on diagrams and distances](https://github.com/stat37411/tda/blob/main/ipynb/persistence_diagrams_and_distances.ipynb)
 
 __Reading__:
 * Oudot Chapter 3, Section 1.1

@@ -148,7 +148,9 @@ __Reading__:
 
 Quiver Representations, Zigzag Homology.
 
-__Code__:
+[Lecture Recording](https://uchicago.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=1dc98354-cba2-4f42-8368-ae380055ae04)
+
+__Code__: [Algorithm in BATS](https://github.com/CompTop/BATS/blob/master/include/quiver/sparse.hpp#L106)
 
 __Reading__:
 * Oudot Chapter 1
@@ -157,13 +159,9 @@ __Reading__:
 * (Optional) "Zigzag Persistent Homology and Real-valued Functions" by G. Carlsson, V. de Silva, and D. Morozov.
 * (Optional) "Persistent and Zigzag Homology: A Matrix Factorization Viewpoint" by G. Carlsson, A. Dwarkanath, and B.J. Nelson.
 
-## Homework 2
-
-Due noon on Feb. 17, 2021.
 
 ## Day 10 - 2/14
 
-__Homework 1 due__
 
 Interleavings, Interleaving Distance, Isometry Theorem.
 

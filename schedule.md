@@ -165,10 +165,17 @@ __Reading__:
 
 Interleavings, Interleaving Distance, Isometry Theorem.
 
+[Lecture Recording](https://uchicago.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=535e16f1-3583-44e8-9e03-ae3c0175ad7e)
+
 __Reading__:
 * Oudot Chapter 3
 * Ghrist Chapter 10.6
 * (Optional) "Metrics for Generalized Persistence Modules" by P. Bubenik, V. de Silva, and J. Scott.
+
+
+## Day 11 - 2/16
+
+Interleavings Part II
 
 ## Day 11 - 2/16
 

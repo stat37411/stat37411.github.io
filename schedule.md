@@ -179,7 +179,7 @@ Interleavings Part II
 
 ## Homework 2
 
-Due 10:30am on Feb. 22, 2022. [Link](homework/Homework_2.pdf)
+Due 10:30am on March 2, 2022. [Link](homework/Homework_2.pdf)
 
 ## Day 11 - 2/16
 

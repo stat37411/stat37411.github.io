@@ -177,18 +177,12 @@ __Reading__:
 
 Interleavings Part II
 
+[Lecture Recording](https://uchicago.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=d9c8064c-2836-4ff9-919b-ae4000534494)
+
 ## Homework 2
 
 Due 10:30am on March 2, 2022. [Link](homework/Homework_2.pdf)
 
-## Day 11 - 2/16
-
-Reach, Weak Feature Size, Sampling.
-
-__Reading__:
-* Oudot Chapter 4
-* (Optional) "Finding the Homology of Submanifolds with High Confidence from Random Samples" by P. Niyogi, S. Smale, S. Weinberger.
-* (Optional) "A Sampling Theory for Compact Sets in Euclidean Space" by F. Chazal, D. Cohen-Steiner & A. Lieutier.
 
 ## Day 12 - 2/21
 
@@ -200,6 +194,15 @@ __Reading__:
 * Oudot Chapter 5.5
 * (Optional) "On the Local Behavior of Spaces of Natural Images" by G. Carlsson, T. Ishkhanov, V. de Silva & A. Zomorodian.
 * (Optional) "Topological Estimation Using Witness Complexes" by V. de Silva and G. Carlsson.
+
+## Day 13 - 2/23
+
+Reach, Weak Feature Size, Sampling.
+
+__Reading__:
+* Oudot Chapter 4
+* (Optional) "Finding the Homology of Submanifolds with High Confidence from Random Samples" by P. Niyogi, S. Smale, S. Weinberger.
+* (Optional) "A Sampling Theory for Compact Sets in Euclidean Space" by F. Chazal, D. Cohen-Steiner & A. Lieutier.
 
 ## Day 13 - 2/23
 

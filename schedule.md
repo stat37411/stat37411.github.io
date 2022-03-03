@@ -223,7 +223,7 @@ __Reading__:
 * (Optional) "Dualities in persistent (co)homology" by
 V. de Silva, D. Morozov, and M. Vejdemo-Johansson.
 
-## Day 15 - 2/28
+## Day 15 - 3/2
 
 Cohomology II - Hodge laplacians, ranking
 

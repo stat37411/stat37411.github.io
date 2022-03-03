@@ -103,6 +103,8 @@ Journal of Computational Neuroscience volume 41, pp. 1–14 (2016). [Link](https
 * "TopologyNet: Topology based deep convolutional and multi-task neural networks for biomolecular property predictions" by Zixuan Cang, and Guo-Wei Wei. PLoS Comput Biol 13(7): e1005690. [Link](https://doi.org/10.1371/journal.pcbi.1005690)
 * "A Topological Regularizer for Classifiers via Persistent Homology" by C. Chen, X. Ni, Q. Bai, Y. Wang ; Proceedings of Machine Learning Research, PMLR 89:2573-2582, 2019. [Link](http://proceedings.mlr.press/v89/chen19g.html)
 * "A Topology Layer for Machine Learning" by R. Brüel-Gabrielsson, B.J. Nelson, A. Dwaraknath, P. Skraba, L.J. Guibas, and G. Carlsson. Twenty Third International Conference on Artificial Intelligence and Statistics, PMLR 108:1553-1563, 2020. [Link](http://proceedings.mlr.press/v108/gabrielsson20a.html)
+* "Hodge Laplacians on Graphs" by L.H. Lim. SIAM Review Vol. 62, No. 3, pp. 685–715, 2020. [Link](https://www.stat.uchicago.edu/~lekheng/work/hodge-graph.pdf)
+* "Statistical ranking and combinatorial Hodge theory" by Jiang, Lim, Yao, Ye. Mathematical Programming. Vol. 127, No 1, pp. 203-244. 2011. [Link](http://link.springer.com/10.1007/s10107-010-0419-x)
 
 
 ## Seminars

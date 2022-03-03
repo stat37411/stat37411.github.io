@@ -188,6 +188,8 @@ Due 10:30am on March 2, 2022. [Link](homework/Homework_2.pdf)
 
 Klein bottle in Image Patches.
 
+[Lecture Recording](https://uchicago.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=a350e007-851e-4eef-886e-ae430173403c)
+
 
 __Reading__:
 * Ghrist Chapter 5.14
@@ -199,12 +201,50 @@ __Reading__:
 
 Reach, Weak Feature Size, Sampling.
 
+[Lecture Recording](https://uchicago.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=638f8b7e-132d-48d4-80a8-ae4501376ead)
+
 __Reading__:
 * Oudot Chapter 4
 * (Optional) "Finding the Homology of Submanifolds with High Confidence from Random Samples" by P. Niyogi, S. Smale, S. Weinberger.
 * (Optional) "A Sampling Theory for Compact Sets in Euclidean Space" by F. Chazal, D. Cohen-Steiner & A. Lieutier.
 
-## Day 13 - 2/23
+
+## Day 14 - 2/28
+
+Cohomology, Applications
+
+[Lecture Recording](https://uchicago.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=6522ccd7-634a-4677-9304-ae4b01121b3b)
+
+__Code__:
+
+__Reading__:
+* (Recommended) "Hodge Laplacians on Graphs" by L.H. Lim [link](https://www.stat.uchicago.edu/~lekheng/work/hodge-graph.pdf)
+* (Optional) "Persistent Cohomology and Circular Coordinates" by V. de Silva, D. Morozov, and M. Vejdemo-Johansson.
+* (Optional) "Dualities in persistent (co)homology" by
+V. de Silva, D. Morozov, and M. Vejdemo-Johansson.
+
+## Day 15 - 2/28
+
+Cohomology II - Hodge laplacians, ranking
+
+[Lecture Recording](https://uchicago.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=74aff60d-4994-4c4a-a24f-ae4d015d9635)
+
+__Code__:
+
+__Reading__:
+* (Optional) "Statistical ranking and combinatorial Hodge theory" by Jiang et al.
+* (Recommended) "Hodge Laplacians on Graphs" by L.H. Lim [link](https://www.stat.uchicago.edu/~lekheng/work/hodge-graph.pdf)
+
+## Day ??
+
+Homotopy. Discrete Morse theory and simplification.
+
+__Reading__:
+* Ghrist Chapter 7, especially 7.8
+* (Optional) Hatcher Chapter 2.1 (Homotopy Invariance)
+* (Optional) "Morse Theory for Filtrations and Efficient Computation of Persistent Homology" by K. Mischaikow and V. Nanda.
+
+## Day ??
 
 Outliers.  Metric Measure Spaces, Distance-to-Measure.
 
@@ -214,27 +254,7 @@ __Reading__:
 * (Optional) "Geometric Inference for Probability Measures" by F. Chazal, D. Cohen-Steiner & Q. Mérigot.
 * (Optional) "Efficient and robust persistent homology for measures" by M. Buchet, F. Chazal, S.Y. Oudot, D.R. Sheehy.
 
-## Day 14 - 2/28
-
-Cohomology, Applications
-
-__Code__:
-
-__Reading__:
-* (Optional) "Persistent Cohomology and Circular Coordinates" by V. de Silva, D. Morozov, and M. Vejdemo-Johansson.
-* (Optional) "Dualities in persistent (co)homology" by
-V. de Silva, D. Morozov, and M. Vejdemo-Johansson.
-
-## Day 15 - 3/2
-
-Homotopy. Discrete Morse theory and simplification.
-
-__Reading__:
-* Ghrist Chapter 7, especially 7.8
-* (Optional) Hatcher Chapter 2.1 (Homotopy Invariance)
-* (Optional) "Morse Theory for Filtrations and Efficient Computation of Persistent Homology" by K. Mischaikow and V. Nanda.
-
-## Day 16 - 3/7
+## Day ??
 
 Zigzag zoo, sparse filtrations.
 
@@ -243,7 +263,7 @@ __Reading__:
 * (Optional) "Zigzag Zoology: Rips Zigzags for Homology Inference" by S.Y. Oudot, D.R. Sheehy.
 * (Optional) "Linear-Size Approximations to the Vietoris–Rips Filtrations" by D.R. Sheehy.
 
-## Day 17 - 3/9
+## Day ??
 
 Applications to clustering and regularization.
 
@@ -254,7 +274,7 @@ P. Škraba.
 * (Optional) "A Topological Regularizer for Classifiers via Persistent Homology" by C. Chen, X. Ni, Q. Bai, Y. Wang.
 * (Optional) "A Topology Layer for Machine Learning" by R. Brüel-Gabrielsson, B.J. Nelson, A. Dwaraknath, P. Skraba, L.J. Guibas, and G. Carlsson.
 
-## Day 18
+## Day ??
 
 Multidimensional and Generalized Persistence.
 

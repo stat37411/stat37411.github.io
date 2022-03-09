@@ -235,7 +235,18 @@ __Reading__:
 * (Optional) "Statistical ranking and combinatorial Hodge theory" by Jiang et al.
 * (Recommended) "Hodge Laplacians on Graphs" by L.H. Lim [link](https://www.stat.uchicago.edu/~lekheng/work/hodge-graph.pdf)
 
-## Day ??
+## Day 16 - 3/7
+
+Applications to clustering and regularization.
+
+__Reading__:
+* Oudot Chapter 6
+* (Optional) "Persistence-Based Clustering in Riemannian Manifolds" by F. Chazal, L.J. Guibas, S.Y. Oudot, and
+P. Škraba.
+* (Optional) "A Topological Regularizer for Classifiers via Persistent Homology" by C. Chen, X. Ni, Q. Bai, Y. Wang.
+* (Optional) "A Topology Layer for Machine Learning" by R. Brüel-Gabrielsson, B.J. Nelson, A. Dwaraknath, P. Skraba, L.J. Guibas, and G. Carlsson.
+
+## Day 17 - 3/9
 
 Homotopy. Discrete Morse theory and simplification.
 
@@ -263,16 +274,6 @@ __Reading__:
 * (Optional) "Zigzag Zoology: Rips Zigzags for Homology Inference" by S.Y. Oudot, D.R. Sheehy.
 * (Optional) "Linear-Size Approximations to the Vietoris–Rips Filtrations" by D.R. Sheehy.
 
-## Day ??
-
-Applications to clustering and regularization.
-
-__Reading__:
-* Oudot Chapter 6
-* (Optional) "Persistence-Based Clustering in Riemannian Manifolds" by F. Chazal, L.J. Guibas, S.Y. Oudot, and
-P. Škraba.
-* (Optional) "A Topological Regularizer for Classifiers via Persistent Homology" by C. Chen, X. Ni, Q. Bai, Y. Wang.
-* (Optional) "A Topology Layer for Machine Learning" by R. Brüel-Gabrielsson, B.J. Nelson, A. Dwaraknath, P. Skraba, L.J. Guibas, and G. Carlsson.
 
 ## Day ??
 
@@ -284,7 +285,7 @@ __Reading__:
 * (Optional) "The Theory of the Interleaving Distance on Multidimensional Persistence Modules" by M. Lesnick.
 * (Optional) "Metrics for Generalized Persistence Modules" by P. Bubenik, V. de Silva, and J. Scott.
 
-## Day 18
+## Day ??
 
 Project presentations.
 
@@ -294,4 +295,4 @@ Project presentations.
 
 ## Finals Period
 
-Final project report will be due in finals period.  Date TBD.
+Final project report will be due in finals period - 3/18 at midnight.

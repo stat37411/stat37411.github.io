@@ -239,6 +239,8 @@ __Reading__:
 
 Applications to clustering and regularization.
 
+[Lecture Recording](https://uchicago.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=5af394e5-16ac-4ec1-93c7-ae5101365407)
+
 __Reading__:
 * Oudot Chapter 6
 * (Optional) "Persistence-Based Clustering in Riemannian Manifolds" by F. Chazal, L.J. Guibas, S.Y. Oudot, and
